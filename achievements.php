@@ -33,9 +33,15 @@
 										<a href="#">About IIITA</a>
 									</div>
 									<ul class="submenu-body">
-										<li class="waves-effect waves-dark"><i class="material-icons">fiber_manual_record</i><a href="">About College</a></li>
-										<li class="waves-effect waves-dark"><i class="material-icons">fiber_manual_record</i><a href="">Infrastructure</a></li>
-										<li class="waves-effect waves-dark"><i class="material-icons">fiber_manual_record</i><a href="">Laboratories</a></li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="about_us.php">About College</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="">Infrastructure</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="">Laboratories</a>
+										</li>
 									</ul>
 								</li>
 								<li class="menu-list-items">
@@ -44,11 +50,21 @@
 										<a href="#">Academics</a>
 									</div>
 									<ul class="submenu-body">
-										<li class="waves-effect waves-dark"><i class="material-icons">fiber_manual_record</i><a href="">Achievements</a></li>
-										<li class="waves-effect waves-dark"><i class="material-icons">fiber_manual_record</i><a href="">Courses</a></li>
-										<li class="waves-effect waves-dark"><i class="material-icons">fiber_manual_record</i><a href="">Demographics</a></li>
-										<li class="waves-effect waves-dark"><i class="material-icons">fiber_manual_record</i><a href="">Research & Development</a></li>
-										<li class="waves-effect waves-dark"><i class="material-icons">fiber_manual_record</i><a href="">Student Life</a></li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="achievements.php">Achievements</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="">Courses</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="">Demographics</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="">Research & Development</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="">Student Life</a>
+										</li>
 									</ul>
 								</li>
 								<li class="menu-list-items">
@@ -57,10 +73,18 @@
 										<a href="#">Recruiters</a>
 									</div>
 									<ul class="submenu-body">
-										<li class="waves-effect waves-dark"><i class="material-icons">fiber_manual_record</i><a href="">Why Recruit?</a></li>
-										<li class="waves-effect waves-dark"><i class="material-icons">fiber_manual_record</i><a href="">Statistics</a></li>
-										<li class="waves-effect waves-dark"><i class="material-icons">fiber_manual_record</i><a href="">Past Recruiters</a></li>
-										<li class="waves-effect waves-dark"><i class="material-icons">fiber_manual_record</i><a href="">Procedure and Policies</a></li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="">Why Recruit?</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="">Statistics</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="">Past Recruiters</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="">Procedure and Policies</a>
+										</li>
 									</ul>
 								</li>
 								<li class="as menu-list-items">
@@ -74,7 +98,7 @@
 					</div>
 				</div>
 				<div class="" id="site-name"> 
-					<h5 class="center-align">IIITA Placement Division</h5>
+					<h5 class="center-align"><a href="index.php">IIITA Placement Division</a></h5>
 				</div>
 				<div class="" id="account">
 					<a href="javascript:void(0)" class="waves-effect waves-dark">
@@ -85,10 +109,14 @@
 		</div>
 
 		<div class="row it">
-	  	<h4 class="col s10 offset-s1 center lines_around">Information Technology</h4>
-	  	<div class="col s10 offset-s1 body">
-	  		<ul>
-			  	<li>First ever Gold Level Opera Campus Crew Member from India (one of the six throughout the World) and presently holds the exclusive position of Opera Campus Crew Coordinator for India at Opera Software.</li>
+			<div class="block-title col s12 valign-wrapper">
+				<span class="valign leftline"></span>
+				<p class="valign title">Information Technology</p>
+				<span class="valign rightline"></span>
+			</div>
+			<div class="col s10 offset-s1 body">
+				<ul>
+					<li>First ever Gold Level Opera Campus Crew Member from India (one of the six throughout the World) and presently holds the exclusive position of Opera Campus Crew Coordinator for India at Opera Software.</li>
 					<li>The Codebreakers team secured 8th rank at ACM ICPC Onsite Regionals ,Kanpur conducted by IIT Kanpur.</li>
 					<li>CodeChef's Feb Challenge Topper(2010)</li>
 					<li>Among top 100 coders in Spoj(as of March 2010), ranked 7th among Java coders in India by TopCoder (as of srm 464).</li>
@@ -98,14 +126,18 @@
 					<li>A team from IIIT-A represented India in the World Finals of the 30th ACM.</li>
 					<li>International Collegiate Programming Contest. ACM ICPC is the largest programming contest organized every year by IBM in association with ACM to recognize and award the best of programming talents in the World.</li>
 				</ul>
-		  </div>
-	  </div>
+			</div>
+		</div>
 
-	  <div class="row ece">
-	  	<h4 class="col s10 offset-s1 center lines_around">Electronics Engineering</h4>
-	  	<div class="col s10 offset-s1 body">
-		  	<ul>
-		  		<li>Successfully designed variable resolution ADC chipusing 500nm CMOS technology.</li>
+		<div class="row ece">
+			<div class="block-title col s12 valign-wrapper">
+				<span class="valign leftline"></span>
+				<p class="valign title">Electronics Engineering</p>
+				<span class="valign rightline"></span>
+			</div>
+			<div class="col s10 offset-s1 body">
+				<ul>
+					<li>Successfully designed variable resolution ADC chipusing 500nm CMOS technology.</li>
 					<li>Human Robot Interaction using Gesture based communication.</li>
 					<li>A Perspective View on Cross Layer Design for Wireless Sensor Network.</li>
 					<li>Methods for Localization in Ultra Wideband WSNs.</li>
@@ -128,37 +160,35 @@
 					<li>Fiber optic system development for intrusion detection.</li>
 					<li>Development of virtual fence in forest.</li>
 				</ul>
-		  </div>
-	  </div>
+			</div>
+		</div>
 
-    <footer class="page-footer">
-      <div class="container">
-        <div class="row">
-          <div class="col l6 s12">
-            <h5 class="white-text">Footer Content</h5>
-            <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
-          </div>
-          <div class="col l4 offset-l2 s12">
-            <h5 class="white-text">Links</h5>
-            <ul>
-              <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
-              <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
-              <li><a class="grey-text text-lighten-3" href="#!">Link 3</a></li>
-              <li><a class="grey-text text-lighten-3" href="#!">Link 4</a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <div class="footer-copyright">
-        <div class="container">
-        © 2014 Copyright Text
-        <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
-        </div>
-      </div>
-    </footer>
+   		<footer class="page-footer">
+			<div class="container">
+				<div class="row">
+					<div class="col l6 s12">
+						<h5 class="white-text">Footer Content</h5>
+						<p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+					</div>
+					<div class="col l4 offset-l2 s12">
+						<h5 class="white-text">Links</h5>
+						<ul>
+						  <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
+						  <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="footer-copyright">
+				<div class="container center">
+					Copyright © 2016 Indian Institute Of Information Technology, Allahabad (Managed By GeekHaven-IIITA)
+				</div>
+			</div>
+   		</footer>
 
 		<!--Import jQuery before materialize.js-->
-		<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+		<!-- <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script> -->
+		<script type="text/javascript" src="js/jquery-1.12.2.js"></script>
 		<script type="text/javascript" src="js/materialize.min.js"></script>
 		<script type="text/javascript" src="js/script.js"></script>
 	</body>
