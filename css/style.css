@@ -17,11 +17,8 @@ header{
 	height: 60px;
 	box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
 	padding: 0px !important;
-<<<<<<< HEAD
 	background: white;
 	z-index: 10;
-=======
->>>>>>> origin/master
 }
 
 header>div{
@@ -74,6 +71,12 @@ header .menu-trigger:hover{
 header,
 header a{
 	color: #4C6E92 !important;
+}
+
+#site-name h5{
+	line-height: 38px;
+	font-weight: 400;
+	/*font-size: 100%;*/
 }
 
 .menu-wrapper {
@@ -192,8 +195,6 @@ header a{
 	height: 60px;
 }
 
-<<<<<<< HEAD
-
 #site-name h5{
 	line-height: 38px;
 	font-weight: 400;
@@ -282,8 +283,6 @@ header a{
 	list-style: circle;
 }
 
-=======
->>>>>>> origin/master
 @media screen and (max-width: 422px) { 
 	.menu-wrapper.open-all {
 		-webkit-transform: translateX(0px);
@@ -297,15 +296,6 @@ header a{
 	}
 }
 
-<<<<<<< HEAD
-=======
-#site-name h5{
-	line-height: 38px;
-	font-weight: 400;
-	/*font-size: 100%;*/
-}
-
->>>>>>> origin/master
 @media screen and (max-width : 720px){
 	#site-name h5{
 		font-size: 100%;
