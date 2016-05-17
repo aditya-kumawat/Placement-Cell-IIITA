@@ -84,71 +84,55 @@
 			</header>
 		</div>
 
-		<div class="slider home-slider">
-	    <ul class="slides">
-	      <li>
-	        <img src="images/DSCF5576.jpg"> <!-- random image -->
-	        <div class="caption center-align">
-	          <h3>This is our big Tagline!</h3>
-	          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-	        </div>
-	      </li>
-	      <li>
-	        <img src="images/DSCF5578.jpg"> <!-- random image -->
-	        <div class="caption left-align">
-	          <h3>Left Aligned Caption</h3>
-	          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-	        </div>
-	      </li>
-	      <li>
-	        <img src="images/DSCF5579.jpg"> <!-- random image -->
-	        <div class="caption right-align">
-	          <h3>Right Aligned Caption</h3>
-	          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-	        </div>
-	      </li>
-	      <li>
-	        <img src="images/DSCF5580.jpg"> <!-- random image -->
-	        <div class="caption center-align">
-	          <h3>This is our big Tagline!</h3>
-	          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-	        </div>
-	      </li>
-	    </ul>
-	  </div>
-
-	  <div class="row tpo_message">
-	  	<h4 class="col s10 offset-s1 center lines_around">TPO's Message</h4>
+		<div class="row lab_list">
+	  	<h4 class="col s10 offset-s1 center lines_around">Laboratories List</h4>
 	  	<div class="col s10 offset-s1 body">
-	  		<img src="images/DSCF5578.jpg" class="col s8 m3 l3 responsive-img">
-		  	<p>IIIT Allahabad has successfully established itself as a premier technological Institute in a relatively short span of 15 years since its inception in 1999.</p>
+		  	<p>The institute takes pride in its laboratory facilities which cover all the major aspects of Electronics & Communication and Information Technology. The labs impart sound practical skills to students with numerous projects being researched in them. Students have round the clock access to each of these labs, namely :</p>
 		  	<br>
-				<p>Our students have been continuously proving their mettle in terms of their grasp of core competencies, their potential to innovate, their arduous nature and well-rounded personalities. The alumni of our institute are doing excellent work and proving to be an asset for their organization.We therefore receive a very positive industry response from our recruiters every year and their feedback about our students has always been very encouraging.</p>
-				<br>
-				<p>The institute offers campus placement for students graduating with Bachelor of Technology and Master of Technology. For the year 2014-15 more than 450 students are expected to be available for campus placements and like every year we are expecting a large number of organizations to participate in our placement program. Our institute has excellent facilities and provides all necessary help for our campus recruiters to conduct a successful placement session.</p>
-				<br>
-				<p>We take this opportunity to invite your esteemed organization to visit our campus for recruitment. It will be a privilege for us to welcome you at IIIT Allahabad.</p>
-				<br>
-				<div class="right">
-					<p>With Best Wishes,</p>
-					<p>Dr. Shirshu Varma</p>
-					<p>Faculty In-charge, Training & Placements</p>
-				</div>
+		  	<ul class="col s10 m5 l5 offset-s1 offset-m1 offset-l1">
+			  	<li>Artificial Intelligence Lab</li>
+					<li>Basic Electronics Lab</li>
+					<li>Basic and Advanced Programming Lab</li>
+					<li>Bio Informatics Lab</li>
+					<li>CAD Lab</li>
+					<li>Communication Systems Lab</li>
+					<li>Control Systems Lab</li>
+					<li>Digital Electronics Lab</li>
+					<li>Digital Signal Processing Lab</li>
+					<li>Electronics Workshop</li>
+					<li>Embedded Systems Lab</li>
+			    <li>Mobile Communications Lab</li>
+					<li>Microprocessor Lab</li>
+		    </ul>
+		    <ul class="col s10 m5 l5 offset-s1 offset-m1 offset-l1">
+					<li>Fiber Optics Lab</li>
+					<li>Instrumentation Lab</li>
+					<li>Natural Language Processing Lab</li>
+					<li>Printed Circuit Lab</li>
+					<li>Image Processing Lab</li>
+					<li>CUDA Lab</li>
+					<li>RF and Microwave Lab</li>
+					<li>Robotics Lab</li>
+					<li>Software Engineering Lab</li>
+					<li>Universal Digital Library</li>
+					<li>VLSI Design and Fabrication Lab</li>
+					<li>Wireless Sensors Lab</li>
+		    </ul>
 		  </div>
 	  </div>
 
-	  <div class="row past_recruiters">
-	  	<h4 class="col s10 offset-s1 center lines_around">Past Recruiters</h4>
+	  <div class="row lab_gallery">
+	  	<h4 class="col s10 offset-s1 center lines_around">Laboratories Gallery</h4>
 	  	<div class="col s10 offset-s1 body">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 circle responsive-img">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 offset-m1 offset-l1 circle responsive-img">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 offset-m1 offset-l1 circle responsive-img">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 offset-l1 circle responsive-img">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 offset-m1 hide-on-small-only circle responsive-img">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 offset-m1 offset-l1 hide-on-small-only circle responsive-img">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 offset-l1 hide-on-med-and-down circle responsive-img">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 offset-m1 offset-l1 hide-on-med-and-down circle responsive-img">
-	  	</div>
+	  		<img class="col s6 m4 l3 materialboxed responsive-img" data-caption="A picture of some deer and tons of trees" src="images/DSCF5576.jpg">
+	  		<img class="col s6 m4 l3 materialboxed responsive-img" data-caption="A picture of some deer and tons of trees" src="images/DSCF5576.jpg">
+	  		<img class="col s6 m4 l3 materialboxed responsive-img" data-caption="A picture of some deer and tons of trees" src="images/DSCF5576.jpg">
+	  		<img class="col s6 m4 l3 materialboxed responsive-img" data-caption="A picture of some deer and tons of trees" src="images/DSCF5576.jpg">
+	  		<img class="col s6 m4 l3 materialboxed responsive-img" data-caption="A picture of some deer and tons of trees" src="images/DSCF5576.jpg">
+	  		<img class="col s6 m4 l3 materialboxed responsive-img" data-caption="A picture of some deer and tons of trees" src="images/DSCF5576.jpg">
+	  		<img class="col s6 m4 l3 materialboxed responsive-img" data-caption="A picture of some deer and tons of trees" src="images/DSCF5576.jpg">
+	  		<img class="col s6 m4 l3 materialboxed responsive-img" data-caption="A picture of some deer and tons of trees" src="images/DSCF5576.jpg">
+		  </div>
 	  </div>
 
     <footer class="page-footer">

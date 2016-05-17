@@ -84,71 +84,51 @@
 			</header>
 		</div>
 
-		<div class="slider home-slider">
-	    <ul class="slides">
-	      <li>
-	        <img src="images/DSCF5576.jpg"> <!-- random image -->
-	        <div class="caption center-align">
-	          <h3>This is our big Tagline!</h3>
-	          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-	        </div>
-	      </li>
-	      <li>
-	        <img src="images/DSCF5578.jpg"> <!-- random image -->
-	        <div class="caption left-align">
-	          <h3>Left Aligned Caption</h3>
-	          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-	        </div>
-	      </li>
-	      <li>
-	        <img src="images/DSCF5579.jpg"> <!-- random image -->
-	        <div class="caption right-align">
-	          <h3>Right Aligned Caption</h3>
-	          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-	        </div>
-	      </li>
-	      <li>
-	        <img src="images/DSCF5580.jpg"> <!-- random image -->
-	        <div class="caption center-align">
-	          <h3>This is our big Tagline!</h3>
-	          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-	        </div>
-	      </li>
-	    </ul>
-	  </div>
-
-	  <div class="row tpo_message">
-	  	<h4 class="col s10 offset-s1 center lines_around">TPO's Message</h4>
+		<div class="row it">
+	  	<h4 class="col s10 offset-s1 center lines_around">Information Technology</h4>
 	  	<div class="col s10 offset-s1 body">
-	  		<img src="images/DSCF5578.jpg" class="col s8 m3 l3 responsive-img">
-		  	<p>IIIT Allahabad has successfully established itself as a premier technological Institute in a relatively short span of 15 years since its inception in 1999.</p>
-		  	<br>
-				<p>Our students have been continuously proving their mettle in terms of their grasp of core competencies, their potential to innovate, their arduous nature and well-rounded personalities. The alumni of our institute are doing excellent work and proving to be an asset for their organization.We therefore receive a very positive industry response from our recruiters every year and their feedback about our students has always been very encouraging.</p>
-				<br>
-				<p>The institute offers campus placement for students graduating with Bachelor of Technology and Master of Technology. For the year 2014-15 more than 450 students are expected to be available for campus placements and like every year we are expecting a large number of organizations to participate in our placement program. Our institute has excellent facilities and provides all necessary help for our campus recruiters to conduct a successful placement session.</p>
-				<br>
-				<p>We take this opportunity to invite your esteemed organization to visit our campus for recruitment. It will be a privilege for us to welcome you at IIIT Allahabad.</p>
-				<br>
-				<div class="right">
-					<p>With Best Wishes,</p>
-					<p>Dr. Shirshu Varma</p>
-					<p>Faculty In-charge, Training & Placements</p>
-				</div>
+	  		<ul>
+			  	<li>First ever Gold Level Opera Campus Crew Member from India (one of the six throughout the World) and presently holds the exclusive position of Opera Campus Crew Coordinator for India at Opera Software.</li>
+					<li>The Codebreakers team secured 8th rank at ACM ICPC Onsite Regionals ,Kanpur conducted by IIT Kanpur.</li>
+					<li>CodeChef's Feb Challenge Topper(2010)</li>
+					<li>Among top 100 coders in Spoj(as of March 2010), ranked 7th among Java coders in India by TopCoder (as of srm 464).</li>
+					<li>A student was the second Indian to be awarded TopCoder's coder of the month title (coder of the month of August,2009).</li>
+					<li>Seven students are awarded the DAAD Scholarship for the summer of 2010.</li>
+					<li>A team from IIITA won BIZCOMP 2009 organised by SJCE college of Mysore, Step incubation centre and DST (GOI).</li>
+					<li>A team from IIIT-A represented India in the World Finals of the 30th ACM.</li>
+					<li>International Collegiate Programming Contest. ACM ICPC is the largest programming contest organized every year by IBM in association with ACM to recognize and award the best of programming talents in the World.</li>
+				</ul>
 		  </div>
 	  </div>
 
-	  <div class="row past_recruiters">
-	  	<h4 class="col s10 offset-s1 center lines_around">Past Recruiters</h4>
+	  <div class="row ece">
+	  	<h4 class="col s10 offset-s1 center lines_around">Electronics Engineering</h4>
 	  	<div class="col s10 offset-s1 body">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 circle responsive-img">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 offset-m1 offset-l1 circle responsive-img">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 offset-m1 offset-l1 circle responsive-img">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 offset-l1 circle responsive-img">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 offset-m1 hide-on-small-only circle responsive-img">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 offset-m1 offset-l1 hide-on-small-only circle responsive-img">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 offset-l1 hide-on-med-and-down circle responsive-img">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 offset-m1 offset-l1 hide-on-med-and-down circle responsive-img">
-	  	</div>
+		  	<ul>
+		  		<li>Successfully designed variable resolution ADC chipusing 500nm CMOS technology.</li>
+					<li>Human Robot Interaction using Gesture based communication.</li>
+					<li>A Perspective View on Cross Layer Design for Wireless Sensor Network.</li>
+					<li>Methods for Localization in Ultra Wideband WSNs.</li>
+					<li>A semiconductor fabrication laboratory in the area of Microelectronics and VLSI Technology has led to following researches:-
+						<ul>
+							<li>Atomic Layer Deposition & Silicon Photovoltaic.</li>
+						  <li>Deposition and Characterization of High K Dielectrics.</li>
+						  <li>Bio-MEMS and MEMS based Sensors.</li>
+						  <li>Planar Light wave Circuits.</li>
+						</ul>
+					</li>
+					<li>Reliability analysis of High-k dielectrics.</li>
+					<li>Development of gunshot detection Algorithm.</li>
+					<li>Development of digging detection Algorithm.</li>
+					<li>Development of tree cutting Algorithm.</li>
+					<li>Development of moving vehicle detection Algorithm.</li>
+					<li>Development of pugmark detection Algorithm.</li>
+					<li>Localization of Acoustic signals.</li>
+					<li>Large area sensor network development.</li>
+					<li>Fiber optic system development for intrusion detection.</li>
+					<li>Development of virtual fence in forest.</li>
+				</ul>
+		  </div>
 	  </div>
 
     <footer class="page-footer">

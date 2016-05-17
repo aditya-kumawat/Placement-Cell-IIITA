@@ -84,71 +84,28 @@
 			</header>
 		</div>
 
-		<div class="slider home-slider">
-	    <ul class="slides">
-	      <li>
-	        <img src="images/DSCF5576.jpg"> <!-- random image -->
-	        <div class="caption center-align">
-	          <h3>This is our big Tagline!</h3>
-	          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-	        </div>
-	      </li>
-	      <li>
-	        <img src="images/DSCF5578.jpg"> <!-- random image -->
-	        <div class="caption left-align">
-	          <h3>Left Aligned Caption</h3>
-	          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-	        </div>
-	      </li>
-	      <li>
-	        <img src="images/DSCF5579.jpg"> <!-- random image -->
-	        <div class="caption right-align">
-	          <h3>Right Aligned Caption</h3>
-	          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-	        </div>
-	      </li>
-	      <li>
-	        <img src="images/DSCF5580.jpg"> <!-- random image -->
-	        <div class="caption center-align">
-	          <h3>This is our big Tagline!</h3>
-	          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-	        </div>
-	      </li>
-	    </ul>
-	  </div>
-
-	  <div class="row tpo_message">
-	  	<h4 class="col s10 offset-s1 center lines_around">TPO's Message</h4>
+		<div class="row display-pic">
+			<img src="images/DSCF5580.jpg" class="col s12 dp">
+		</div>
+		
+		<div class="row history">
+	  	<h4 class="col s10 offset-s1 center lines_around">History</h4>
 	  	<div class="col s10 offset-s1 body">
-	  		<img src="images/DSCF5578.jpg" class="col s8 m3 l3 responsive-img">
-		  	<p>IIIT Allahabad has successfully established itself as a premier technological Institute in a relatively short span of 15 years since its inception in 1999.</p>
+		  	<p>Established in 1999 as an Institute of National Importance to be a centre of excellence in Information Technology, Electronics & Communications and allied areas, Indian Institute of Information Technology, Allahabad (IIIT Allahabad) was conferred the Deemed University status by Govt. of India in the year 2000.</p>
 		  	<br>
-				<p>Our students have been continuously proving their mettle in terms of their grasp of core competencies, their potential to innovate, their arduous nature and well-rounded personalities. The alumni of our institute are doing excellent work and proving to be an asset for their organization.We therefore receive a very positive industry response from our recruiters every year and their feedback about our students has always been very encouraging.</p>
+				<p>IIIT Allahabad now stands as an institute of international repute known for being a pioneer in the field of Information Technology. With its highly experienced faculty and one of the brightest groups of students of this nation, coupled with dynamic academic courses, inter-departmental electives, semester projects and world class research labs, the institute has succeeded in creating an environment where creativity and new ideas flourish.</p>
 				<br>
-				<p>The institute offers campus placement for students graduating with Bachelor of Technology and Master of Technology. For the year 2014-15 more than 450 students are expected to be available for campus placements and like every year we are expecting a large number of organizations to participate in our placement program. Our institute has excellent facilities and provides all necessary help for our campus recruiters to conduct a successful placement session.</p>
+				<p>The institute is committed to producing students who apart from pure academics excel in other fundamentally important area like extra-curricular activities and have exposure to the cutting edge technologies that are shaping our world. </p>
 				<br>
-				<p>We take this opportunity to invite your esteemed organization to visit our campus for recruitment. It will be a privilege for us to welcome you at IIIT Allahabad.</p>
-				<br>
-				<div class="right">
-					<p>With Best Wishes,</p>
-					<p>Dr. Shirshu Varma</p>
-					<p>Faculty In-charge, Training & Placements</p>
-				</div>
+				<p>The institute also has an extension campus RGIIT Amethi to improve the quality of life of the surrounding area and to bridge the technology gap.</p>
 		  </div>
 	  </div>
 
-	  <div class="row past_recruiters">
-	  	<h4 class="col s10 offset-s1 center lines_around">Past Recruiters</h4>
+	  <div class="row mission">
+	  	<h4 class="col s10 offset-s1 center lines_around">Mission</h4>
 	  	<div class="col s10 offset-s1 body">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 circle responsive-img">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 offset-m1 offset-l1 circle responsive-img">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 offset-m1 offset-l1 circle responsive-img">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 offset-l1 circle responsive-img">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 offset-m1 hide-on-small-only circle responsive-img">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 offset-m1 offset-l1 hide-on-small-only circle responsive-img">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 offset-l1 hide-on-med-and-down circle responsive-img">
-	  		<img src="images/DSCF5578.jpg" class="col s6 m3 l2 offset-m1 offset-l1 hide-on-med-and-down circle responsive-img">
-	  	</div>
+		  	<p>The mission of IIIT, Allahabad is to be a unique and world class nucleating "Apex Center of Excellence" in the area of Information Technology, Electronics & Communications and Allied Sciences, so as to enhance India's Technological strength in IT, Silicon and Communications industries, and produce professionals who with their tremendous competencies and sound knowledge of the leading technologies are able to contribute to the development of our nation, to establish India as the leader in Technology on the global map.</p>
+		  </div>
 	  </div>
 
     <footer class="page-footer">
