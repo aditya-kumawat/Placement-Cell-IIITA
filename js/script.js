@@ -1,5 +1,10 @@
 $(document).ready(function() {
+<<<<<<< HEAD
 		var $menuTrigger = $(".menu-trigger "),
+=======
+
+	var $menuTrigger = $(".menu-trigger "),
+>>>>>>> origin/master
 		$menuWrapper = $(".menu-wrapper"),
 		isMenuIconOpen = false,
 		isMenuOpen = false;
@@ -75,6 +80,10 @@ $(document).ready(function() {
 	$(document).on("click",function(e){
 		if(isMenuOpen || isMenuIconOpen){
 			if(e.target.className == "submenu-head" || e.target.className == "scroller" || e.target.className == "menu-trigger") return;
+<<<<<<< HEAD
+=======
+			// console.log(e.target);
+>>>>>>> origin/master
 			if(isMenuIconOpen){
 				$menuWrapper.removeClass("open-part");
 				isMenuIconOpen = false;
@@ -89,9 +98,14 @@ $(document).ready(function() {
 		}
 	});
 
+<<<<<<< HEAD
 	
 	$('.slider').slider();
 	$('.materialboxed').materialbox();
 	// $('.lines_around:before').addClass('hide-on-med-and-down');
 	// $('.lines_around').insertAfter('.hide-on-med-and-down');
+=======
+
+
+>>>>>>> origin/master
 })
