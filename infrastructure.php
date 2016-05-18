@@ -107,78 +107,63 @@
 				</div>
 			</header>
 		</div>
-		
+
 		<div class="row page-title">
-		 	<h2 class="white-text center-align">Achievements</h2> 
+		 	<h2 class="white-text center-align">Infrastructure <span class="hide-on-small-only">And Campus Facilities</span></h2> 
 		</div>
 
 		<div class="row chip-bar-container hide-on-small-only">
 			<div class="col s12 m10 offset-m1 chips-bar">
 				<div class="chip">
-					<a href="#">Academics</a>
+					<a href="#">IIITA</a>
 				</div>
 				<div class="chip">
-					<a href="achievements.php">Achievements</a>
+					<a href="infrastructure.php">Infrastructure</a>
 				</div>
+				<div class="chip">
+					<a href="infrastructure.php">Campus</a>
+				</div>
+				<div class="chip">
+					<a href="infrastructure.php">Facilities</a>
+				</div>	
 			</div>
 		</div>
 
-		<div class="row block" id="it">
+		<div class="row block" id="iiita_campus">
 			<div class="block-title col s12 valign-wrapper">
 				<span class="valign leftline"></span>
-				<p class="valign title">Information Technology</p>
+				<p class="valign title">Campus</p>
 				<span class="valign rightline"></span>
 			</div>
 			<div class="col s10 offset-s1 body">
-				<ul>
-					<li>First ever Gold Level Opera Campus Crew Member from India (one of the six throughout the World) and presently holds the exclusive position of Opera Campus Crew Coordinator for India at Opera Software.</li>
-					<li>The Codebreakers team secured 8th rank at ACM ICPC Onsite Regionals ,Kanpur conducted by IIT Kanpur.</li>
-					<li>CodeChef's Feb Challenge Topper(2010)</li>
-					<li>Among top 100 coders in Spoj(as of March 2010), ranked 7th among Java coders in India by TopCoder (as of srm 464).</li>
-					<li>A student was the second Indian to be awarded TopCoder's coder of the month title (coder of the month of August,2009).</li>
-					<li>Seven students are awarded the DAAD Scholarship for the summer of 2010.</li>
-					<li>A team from IIITA won BIZCOMP 2009 organised by SJCE college of Mysore, Step incubation centre and DST (GOI).</li>
-					<li>A team from IIIT-A represented India in the World Finals of the 30th ACM.</li>
-					<li>International Collegiate Programming Contest. ACM ICPC is the largest programming contest organized every year by IBM in association with ACM to recognize and award the best of programming talents in the World.</li>
-				</ul>
-			</div>
+				<img src="images/iiita/iiita.jpg" alt="Aerial view of IIIT-A campus" class="materialboxed left col m5 s10 offset-s1 responsive-img">
+				<p>
+					The campus plan, based on a bird taking flight symbolises a launchpad for students to shoot for the stars.  The beautiful 100 acre campus, situated at Deoghat, Jhalwa, designed meticulously on the Penrose Geometry pattern, is being further topped by fine landscaping to give an all round soothing effect to create a stimulating environment to indulge in the true pursuit of excellence in the field of Information Technology and Allied Sciences. It includes two Computer Centres with six labs each, 16 lecture halls, electronic library, stadium and various recreational facilities.
+				</p>
+				<p>
+					The campus is envisaged to be a fully residential one, with all its faculty, staff and students housed in different pockets. Every nook and cranny is connected to the IIITA network by high speed optic fibres and wireless LAN opening the highway to internet.The institute has a sprawling on 100 acres lush green lawns and expanse of rich flora and devise floriculture, the Campus includes Visitors Guest House, Faculty Guest House, VIP Guest House, 4 Boy's Hostels with capacity of 275 inmates each, 2 Girl's Hostels, 60 Residential Quarters of Type I, II, III &amp; IV, Married Scholar Apartments, Students Activity Centre, Health Centre, Squash Courts, Swimming pool, Tennis Courts, Badminton Courts, Pavilion &amp; Playgrounds.
+				</p>
+				<img src="images/iiita/2.jpg" alt="IIITA library" class="right col m4 s10 offset-s1 responsive-img">
+				<p>
+					The other important buildings that the institute has are three Computer Centres with several labs each, lecture halls, a newly built auditorium and state of the art electronic library.IIITA has a well-established network infrastructure both for the local (LAN) as well as access to the internet. The network spans through every building on the campus using optical cables where high quality equipments (including layer 3 managed switches) have been installed ensuring a high speed internet access during all hours of the day. The institute has excellent physical activity infrastructure for its residents to ensure that academic development is duly supplemented by sufficient physical development as well. A good football ground – complete, athletic track, flood lit basketball, tennis and squash courts, table tennis and many other indoor and outdoor activity places.
+				</p>
+			</div>	
 		</div>
 
-		<div class="row block" id="ece">
+		<div class="row block" id="campus_images">
 			<div class="block-title col s12 valign-wrapper">
 				<span class="valign leftline"></span>
-				<p class="valign title">Electronics Engineering</p>
+				<p class="valign title">Images</p>
 				<span class="valign rightline"></span>
 			</div>
 			<div class="col s10 offset-s1 body">
-				<ul>
-					<li>Successfully designed variable resolution ADC chipusing 500nm CMOS technology.</li>
-					<li>Human Robot Interaction using Gesture based communication.</li>
-					<li>A Perspective View on Cross Layer Design for Wireless Sensor Network.</li>
-					<li>Methods for Localization in Ultra Wideband WSNs.</li>
-					<li>A semiconductor fabrication laboratory in the area of Microelectronics and VLSI Technology has led to following researches:-
-						<ul>
-							<li>Atomic Layer Deposition &amp; Silicon Photovoltaic.</li>
-							<li>Deposition and Characterization of High K Dielectrics.</li>
-							<li>Bio-MEMS and MEMS based Sensors.</li>
-							<li>Planar Light wave Circuits.</li>
-						</ul>
-					</li>
-					<li>Reliability analysis of High-k dielectrics.</li>
-					<li>Development of gunshot detection Algorithm.</li>
-					<li>Development of digging detection Algorithm.</li>
-					<li>Development of tree cutting Algorithm.</li>
-					<li>Development of moving vehicle detection Algorithm.</li>
-					<li>Development of pugmark detection Algorithm.</li>
-					<li>Localization of Acoustic signals.</li>
-					<li>Large area sensor network development.</li>
-					<li>Fiber optic system development for intrusion detection.</li>
-					<li>Development of virtual fence in forest.</li>
-				</ul>
+				<img src="images/iiita/5.jpg" alt="IIITA" class="col m3 s10 offset-s1 responsive-img">
+				<img src="images/iiita/3.jpg" alt="IIITA campus" class="col m3 s10 offset-s1 responsive-img">
+				<img src="images/iiita/1.jpg" alt="IIITA auditoriam" class="col m3 s10 offset-s1 responsive-img">
 			</div>
 		</div>
 
-   		<footer class="page-footer">
+		<footer class="page-footer">
 			<div class="container">
 				<div class="row">
 					<div class="col l6 s12">

@@ -66,21 +66,22 @@ function navbarOperations(){
 	$submenuHeadAnchors.on("click",function(e){
 
 		if($(this).closest(".menu-list-items").hasClass("show-submenu-body")){
-			$("li.menu-list-items.show-submenu-body").removeClass("show-submenu-body");			
+			$("li.menu-list-items.show-submenu-body")
+				.removeClass("show-submenu-body")
+				.find(".submenu-body")
+				.slideToggle();			
 			return;
 		}
-		$("li.menu-list-items.show-submenu-body").removeClass("show-submenu-body");
+
+		$("li.menu-list-items.show-submenu-body")
+			.removeClass("show-submenu-body")
+			.find(".submenu-body")
+			.slideToggle();
+
 		if($(this).closest(".menu-list-items").children().length != 1 ){
-			$targetLi = $(this).closest(".menu-list-items");
-			$targetBody = $targetLi.find(".submenu-body");
-
-			$targetBody.css({"display":"flex"})
-						.promise()
-					   	.done(function(){
-							$targetLi.addClass("show-submenu-body");
-						});
+			$(this).closest(".menu-list-items").addClass("show-submenu-body")
+					.find(".submenu-body").slideToggle();
 		}
-
 	})
 
 	$(document).on("click",function(e){
@@ -94,7 +95,10 @@ function navbarOperations(){
 				$menuWrapper.removeClass("open-all");
 				isMenuOpen = false;
 			}
-			$("li.menu-list-items.show-submenu-body").removeClass("show-submenu-body");
+			$("li.menu-list-items.show-submenu-body")
+				.removeClass("show-submenu-body")
+				.find(".submenu-body")
+				.slideToggle();
 		}
 	});
 }

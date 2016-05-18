@@ -107,9 +107,9 @@
 				</div>
 			</header>
 		</div>
-		
+
 		<div class="row page-title">
-		 	<h2 class="white-text center-align">Achievements</h2> 
+		 	<h2 class="white-text center-align">Research &amp; Development</h2> 
 		</div>
 
 		<div class="row chip-bar-container hide-on-small-only">
@@ -118,62 +118,49 @@
 					<a href="#">Academics</a>
 				</div>
 				<div class="chip">
-					<a href="achievements.php">Achievements</a>
+					<a href="research_and_development.php">R &amp; D</a>
 				</div>
 			</div>
 		</div>
-
-		<div class="row block" id="it">
-			<div class="block-title col s12 valign-wrapper">
-				<span class="valign leftline"></span>
-				<p class="valign title">Information Technology</p>
-				<span class="valign rightline"></span>
-			</div>
+		
+		<div class="row block">
 			<div class="col s10 offset-s1 body">
-				<ul>
-					<li>First ever Gold Level Opera Campus Crew Member from India (one of the six throughout the World) and presently holds the exclusive position of Opera Campus Crew Coordinator for India at Opera Software.</li>
-					<li>The Codebreakers team secured 8th rank at ACM ICPC Onsite Regionals ,Kanpur conducted by IIT Kanpur.</li>
-					<li>CodeChef's Feb Challenge Topper(2010)</li>
-					<li>Among top 100 coders in Spoj(as of March 2010), ranked 7th among Java coders in India by TopCoder (as of srm 464).</li>
-					<li>A student was the second Indian to be awarded TopCoder's coder of the month title (coder of the month of August,2009).</li>
-					<li>Seven students are awarded the DAAD Scholarship for the summer of 2010.</li>
-					<li>A team from IIITA won BIZCOMP 2009 organised by SJCE college of Mysore, Step incubation centre and DST (GOI).</li>
-					<li>A team from IIIT-A represented India in the World Finals of the 30th ACM.</li>
-					<li>International Collegiate Programming Contest. ACM ICPC is the largest programming contest organized every year by IBM in association with ACM to recognize and award the best of programming talents in the World.</li>
-				</ul>
+				<p>
+					<b>Students at IIIT Allahabad </b>are encouraged and nurtured to strive for excellence in their respective fields through cutting edge research and development which is aided through various academic programmes run by the departments. We take great pride in our nationally and internationally sponsored projects that are being successfully carried out in collaboration with some of the world's leading universities and organizations.
+				</p>
+				<p>
+					<strong><b>STUDENT PROJECTS</b></strong><br>
+					It is mandatory for all B.Tech, M.Tech, MS, MBA and Ph.D. students to take up projects under the guidance of specialist faculties. The projects are developmental and application based with emphasis on originality and creativity. Since several projects are being carried out in collaboration with the industry, the students get a chance to deal with and innovatively solve real life problems using their technical expertise.
+				</p>
+				<p>
+					<strong><b>RESEARCH PUBLICATIONS</b></strong><br>
+					Students are continuously encouraged to publish their research work and observations in the form of scientific papers in various revered national and international conference and esteemed journals.
+				</p>
+				<p>
+					<strong><b>PATENTS</b></strong><br>
+					Students who come up with original, innovative and pragmatic solutions to day to day problems are promoted and aided to file for national and international patents. The extensive R&amp;D done by the students has led to 11 patents being filed till now and more than 350 research paper are published every year by both faculty and students.
+				</p>
 			</div>
 		</div>
 
-		<div class="row block" id="ece">
+		<div class="row block" id="sponsored_projects">
 			<div class="block-title col s12 valign-wrapper">
 				<span class="valign leftline"></span>
-				<p class="valign title">Electronics Engineering</p>
+				<p class="valign title">Sponsored Projects</p>
 				<span class="valign rightline"></span>
 			</div>
 			<div class="col s10 offset-s1 body">
+				Numerous nationally and internationally sponsored research projects running in the institute receive overwhelmingly healthy participation from the students. These projects encompass a very broad spectrum of areas both conventional and pioneering. Several papers based on these projects have been published in reputed referred journals and appreciated in various international conferences which stands testimony to the standard of research and development at the institute. A few include:
 				<ul>
-					<li>Successfully designed variable resolution ADC chipusing 500nm CMOS technology.</li>
-					<li>Human Robot Interaction using Gesture based communication.</li>
-					<li>A Perspective View on Cross Layer Design for Wireless Sensor Network.</li>
-					<li>Methods for Localization in Ultra Wideband WSNs.</li>
-					<li>A semiconductor fabrication laboratory in the area of Microelectronics and VLSI Technology has led to following researches:-
-						<ul>
-							<li>Atomic Layer Deposition &amp; Silicon Photovoltaic.</li>
-							<li>Deposition and Characterization of High K Dielectrics.</li>
-							<li>Bio-MEMS and MEMS based Sensors.</li>
-							<li>Planar Light wave Circuits.</li>
-						</ul>
-					</li>
-					<li>Reliability analysis of High-k dielectrics.</li>
-					<li>Development of gunshot detection Algorithm.</li>
-					<li>Development of digging detection Algorithm.</li>
-					<li>Development of tree cutting Algorithm.</li>
-					<li>Development of moving vehicle detection Algorithm.</li>
-					<li>Development of pugmark detection Algorithm.</li>
-					<li>Localization of Acoustic signals.</li>
-					<li>Large area sensor network development.</li>
-					<li>Fiber optic system development for intrusion detection.</li>
-					<li>Development of virtual fence in forest.</li>
+					<li>Mega Centre in Universal Digital Library supported by the Ministry of Communication and Information Technology, GoI and Carnegie Mellon University (USA).</li>
+					<li>Patent Referral Centre (PRC).</li>
+					<li>Software Licensing and IPR Depository Centre supported by Ministry of Human Resource Development, GoI.</li>
+					<li>Technology Development of Indian Languages supported by the Ministry of Communication and Information Technology, GoI.</li>
+					<li>Bio-Informatics Centre supported by Department of Bio-Technology, GoI.</li>
+					<li>Indo-Russian Centre of Bio-Technology supported jointly by Department of Science and Technology and Department of Bio-Technology, GoI.</li>
+					<li>Broadband over Power Line Project for villages supported by Department of Science and Technology, GoI.</li>
+					<li>Information Security Education and Awareness (ISEA).</li>
+					<li>Development of active prosthetic limbs for physically challenged persons using robotic technology (ISJRP).</li>
 				</ul>
 			</div>
 		</div>

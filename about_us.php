@@ -17,7 +17,7 @@
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 	</head>
 	<body>
-		<div class="row" id="header-wrapper">
+				<div class="row" id="header-wrapper">
 			<header class="col s12">
 				<div class="" id="nav-menu">
 					<a href="javascript:void(0)" class="menu-trigger waves-effect waves-dark">
@@ -30,67 +30,67 @@
 								<li class="menu-list-items">
 									<div class="submenu-head waves-effect waves-dark">
 										<i class="material-icons">business</i>
-										<a href="#">About IIITA</a>
+										<a href="javascript:void(0)">About IIITA</a>
 									</div>
-									<ul class="submenu-body">
+									<ul class="submenu-body" id="asd">
 										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="about_us.php">About College</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="">Infrastructure</a>
+											<i class="material-icons">fiber_manual_record</i><a href="infrastructure.php">Infrastructure</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="">Laboratories</a>
+											<i class="material-icons">fiber_manual_record</i><a href="laboratories.php">Laboratories</a>
 										</li>
 									</ul>
 								</li>
 								<li class="menu-list-items">
 									<div class="submenu-head waves-effect waves-dark">
 										<i class="material-icons">school</i>
-										<a href="#">Academics</a>
+										<a href="javascript:void(0)">Academics</a>
 									</div>
 									<ul class="submenu-body">
 										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="achievements.php">Achievements</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="">Courses</a>
+											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Courses</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="">Demographics</a>
+											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Demographics</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="">Research & Development</a>
+											<i class="material-icons">fiber_manual_record</i><a href="research_and_development.php">Research &amp; Development</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="">Student Life</a>
+											<i class="material-icons">fiber_manual_record</i><a href="student_life.php">Student Life</a>
 										</li>
 									</ul>
 								</li>
 								<li class="menu-list-items">
 									<div class="submenu-head waves-effect waves-dark">
 										<i class="material-icons">supervisor_account</i>
-										<a href="#">Recruiters</a>
+										<a href="javascript:void(0)">Recruiters</a>
 									</div>
 									<ul class="submenu-body">
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="">Why Recruit?</a>
+											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Why Recruit?</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="">Statistics</a>
+											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Statistics</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="">Past Recruiters</a>
+											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Past Recruiters</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="">Procedure and Policies</a>
+											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Procedure and Policies</a>
 										</li>
 									</ul>
 								</li>
 								<li class="as menu-list-items">
 									<div class="submenu-head waves-effect waves-dark">
 										<i class="material-icons">place</i>
-										<a href="#" class="aasd">Reach Us</a>
+										<a href="contact_us.php">Reach Us</a>
 									</div>
 								</li>
 							</ul>
@@ -112,28 +112,42 @@
 			<img src="images/iiita/4.jpg" class="col s12 dp">
 		</div>
 		
-		<div class="row history block">
+		<div class="row chip-bar-container hide-on-small-only">
+			<div class="col s12 m10 offset-m1 chips-bar">
+				<div class="chip">
+					<a href="#">IIITA</a>
+				</div>
+				<div class="chip">
+					<a href="about_us.php">History</a>
+				</div>
+				<div class="chip">
+					<a href="about_us.php">Mission</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="row block" id="history">
 			<div class="block-title col s12 valign-wrapper">
 				<span class="valign leftline"></span>
 				<p class="valign title">History</p>
 				<span class="valign rightline"></span>
 			</div>
 			<div class="col s10 offset-s1 body">
-				<p>Established in 1999 as an Institute of National Importance to be a centre of excellence in Information Technology, Electronics & Communications and allied areas, Indian Institute of Information Technology, Allahabad (IIIT Allahabad) was conferred the Deemed University status by Govt. of India in the year 2000.</p>
+				<p>Established in 1999 as an Institute of National Importance to be a centre of excellence in Information Technology, Electronics &amp; Communications and allied areas, Indian Institute of Information Technology, Allahabad (IIIT Allahabad) was conferred the Deemed University status by Govt. of India in the year 2000.</p>
 				<p>IIIT Allahabad now stands as an institute of international repute known for being a pioneer in the field of Information Technology. With its highly experienced faculty and one of the brightest groups of students of this nation, coupled with dynamic academic courses, inter-departmental electives, semester projects and world class research labs, the institute has succeeded in creating an environment where creativity and new ideas flourish.</p>
 				<p>The institute is committed to producing students who apart from pure academics excel in other fundamentally important area like extra-curricular activities and have exposure to the cutting edge technologies that are shaping our world. </p>
 				<p>The institute also has an extension campus RGIIT Amethi to improve the quality of life of the surrounding area and to bridge the technology gap.</p>
 			</div>
 		</div>
 
-		<div class="row mission block">
+		<div class="row block" id="mission">
 			<div class="block-title col s12 valign-wrapper">
 				<span class="valign leftline"></span>
 				<p class="valign title">Mission</p>
 				<span class="valign rightline"></span>
 			</div>
 			<div class="col s10 offset-s1 body">
-				<p>The mission of IIIT, Allahabad is to be a unique and world class nucleating "Apex Center of Excellence" in the area of Information Technology, Electronics & Communications and Allied Sciences, so as to enhance India's Technological strength in IT, Silicon and Communications industries, and produce professionals who with their tremendous competencies and sound knowledge of the leading technologies are able to contribute to the development of our nation, to establish India as the leader in Technology on the global map.</p>
+				<p>The mission of IIIT, Allahabad is to be a unique and world class nucleating "Apex Center of Excellence" in the area of Information Technology, Electronics &amp; Communications and Allied Sciences, so as to enhance India's Technological strength in IT, Silicon and Communications industries, and produce professionals who with their tremendous competencies and sound knowledge of the leading technologies are able to contribute to the development of our nation, to establish India as the leader in Technology on the global map.</p>
 			</div>
 		</div>
 

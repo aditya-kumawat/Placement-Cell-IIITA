@@ -44,16 +44,17 @@ body{
 	top: 0;
 	left: 0;
 	margin-bottom: 0px !important;
-	border: 1px solid;
+	/*border: 1px solid;*/
 	z-index: 20;
 }
 
+/*jugaad*/
 header{
 	/*min-width: 360px !important; */
 	display: flex;
 	flex-direction: row;
 	position: fixed;
-	top: -1px;
+	top: 0px;
 	left: 0;
 	height: 60px;
 	box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
@@ -159,17 +160,11 @@ header a{
 }
 
 .menu li.menu-list-items > .submenu-body{
-	/*display: flex;*/
 	display: none;
-	height: 0px;
 	overflow: hidden;
 	flex-direction: column;
 	-webkit-margin-before: 0px !important;
 	-webkit-margin-after: 0px !important;
-}
-
-.menu li.menu-list-items.show-submenu-body > .submenu-body{
-	height: auto;
 }
 
 .menu li.menu-list-items > .submenu-body *{
@@ -329,13 +324,7 @@ header a{
 
 .block{
 	margin: 40px 0px;
-	/*border: 1px solid;*/
-	/*border-bottom: 2px solid cornflowerblue; */
 }
-
-/*.block *{
-	border: 1px solid;
-}*/
 
 .block-title{
 	flex-direction: row;
@@ -347,21 +336,40 @@ header a{
 	font-family: "LatoMedium";
 	font-size: 2.4em;
 	font-weight: 500;
+	text-align: center;
 	color: cornflowerblue;
+	transition: border-bottom 0.4s;
 }
 
 .block-title span{
 	flex-grow: 1;
 	height: 2px;
 	background: cornflowerblue;
+	transition: opacity 0.4s;
 }
 
 .block-title span.leftline{
 	margin: 0 30px 0 10%;
 }
 
-.block-title span{
+.block-title span.rightline{
 	margin: 0 10% 0 30px;
+}
+
+@media only screen and (max-width: 600px){
+	.block-title p.title{
+		padding-bottom: 3px;
+		border-bottom: 1px solid cornflowerblue;
+	}
+
+	.block-title span.leftline,
+	.block-title span.rightline{
+		opacity: 0;
+	}
+}
+
+.block ul li{
+	list-style: disc;
 }
 
 #tpo_message #pic{
@@ -373,10 +381,6 @@ header a{
 #tpo_message p#message{
 	font-size: 1.1em;
 	letter-spacing: 2px;
-}
-
-#past_recruiters{
-	/*background: -webkit-linear-gradient(left, #67c082, #47b8e5) !important;*/
 }
 
 #past_recruiters>div:not(:first-child){
@@ -394,23 +398,27 @@ header a{
 	}
 }
 
-
-.lab_list ul li{
-	list-style: disc;
-}
-
-.lab_gallery img {
-	margin: 15px 0;
-	padding: 0 10px !important;
-}
-
-.it ul li, 
-.ece ul li {
+#it ul > li > ul >li, 
+#ece ul > li > ul > li{
 	margin-left: 30px;
 	list-style: circle;
 }
 
+#iiita_campus img{
+	margin: 25px;
+	border-radius: 3px;
+}
 
+#campus_images img{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+@media only screen and (min-width: 601px){
+	#campus_images img{
+		margin: 20px calc( 100% * 3/12 * 1/6);
+	}
+}
 /*Footer styles*/
 footer{
 	/*background: -webkit-linear-gradient(left, #67c082, #47b8e5) !important; */
