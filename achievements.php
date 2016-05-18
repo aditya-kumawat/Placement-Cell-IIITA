@@ -17,7 +17,7 @@
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 	</head>
 	<body>
-		<div class="row">
+		<div class="row" id="header-wrapper">
 			<header class="col s12">
 				<div class="" id="nav-menu">
 					<a href="javascript:void(0)" class="menu-trigger waves-effect waves-dark">
@@ -108,6 +108,20 @@
 			</header>
 		</div>
 
+		<div class="row page-title">
+		 	<h2 class="white-text center-align">Achievements</h2> 
+		</div>
+
+		<div class="row chip-bar-container hide-on-small-only">
+			<div class="col s12 m10 offset-m1 chips-bar">
+				<div class="chip">
+					<a href="#">Academics</a>
+				</div>
+				<div class="chip">
+					<a href="achievements.php">Achievements</a>
+				</div>
+			</div>
+		</div>
 		<div class="row it">
 			<div class="block-title col s12 valign-wrapper">
 				<span class="valign leftline"></span>
@@ -144,9 +158,9 @@
 					<li>A semiconductor fabrication laboratory in the area of Microelectronics and VLSI Technology has led to following researches:-
 						<ul>
 							<li>Atomic Layer Deposition & Silicon Photovoltaic.</li>
-						  <li>Deposition and Characterization of High K Dielectrics.</li>
-						  <li>Bio-MEMS and MEMS based Sensors.</li>
-						  <li>Planar Light wave Circuits.</li>
+							<li>Deposition and Characterization of High K Dielectrics.</li>
+							<li>Bio-MEMS and MEMS based Sensors.</li>
+							<li>Planar Light wave Circuits.</li>
 						</ul>
 					</li>
 					<li>Reliability analysis of High-k dielectrics.</li>

@@ -17,7 +17,7 @@
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 	</head>
 	<body>
-		<div class="row">
+		<div class="row" id="header-wrapper">
 			<header class="col s12">
 				<div class="" id="nav-menu">
 					<a href="javascript:void(0)" class="menu-trigger waves-effect waves-dark">

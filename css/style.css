@@ -3,18 +3,53 @@
 	src : url("../fonts/SourceSansPro-Regular.otf");
 }
 
+@font-face{
+	font-family: "LatoRegular";
+	src : url("../fonts/Lato-Regular.ttf");
+}
+
+@font-face{
+	font-family: "LatoLight";
+	src : url("../fonts/Lato-Light.ttf");
+}
+
+@font-face{
+	font-family: "LatoThin";
+	src : url("../fonts/Lato-Thin.ttf");
+}
+
+@font-face{
+	font-family: "LatoMedium";
+	src : url("../fonts/Lato-Medium.ttf");
+}
+
+@font-face{
+	font-family: "LatoHairline";
+	src : url("../fonts/Lato-Hairline.ttf");
+}
 *{
 	box-sizing: border-box;
 	padding: 0px !important;
 }
 
 body{
-	min-width: 320px;
-	padding-top: 60px;
+	font-family: "LatoRegular";
+	min-width: 360px !important;
+	padding-top: 60px !important;
 	letter-spacing: 1px;
 }
 
+#header-wrapper{
+	position: fixed;
+	top: 0;
+	left: 0;
+	margin-bottom: 0px !important;
+	border: 1px solid;
+	z-index: 20;
+}
+
 header{
+	/*min-width: 360px !important; */
 	display: flex;
 	flex-direction: row;
 	position: fixed;
@@ -213,30 +248,17 @@ header a{
 #site-name h5{
 	line-height: 38px;
 	font-weight: 400;
-	font-family: "SourceSansProRegular";
+	font-family: "LatoRegular";
 	/*font-size: 100%;*/
 }
 
 #site-name h5 a{
 	position: relative;
-	letter-spacing: 1px;
+	letter-spacing: initial;
 	font-size: 1.4em;
 	color: #1C438A !important;
-	/*text-decoration: underline;*/
-	/*border-bottom: 2px solid #1C438A;*/
 }
-/*
-#site-name h5 a:before{
-	position: absolute;
-	content: "";
-	bottom: -6px;
-	left: -5%;
-	width: 110%;
-	height: 2px;
-	background: #1C438A;
-	border-radius: 2px;
-}
-*/
+
 @media screen and (max-width : 720px){
 	#site-name h5{
 		font-size: 100%;
@@ -244,7 +266,6 @@ header a{
 }
 
 .home-slider {
-	/*margin-top: 60px;*/
 	height: 400px !important;
 	overflow: hidden;
 }
@@ -272,21 +293,60 @@ header a{
 	background: cornflowerblue;
 }
 
+.page-title{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	height: 45vh !important;
+	background: -webkit-linear-gradient(right, #5C258D , #4389A2) !important; /* Chrome 10-25, Safari 5.1-6 */
+}
+
+.page-title h2{
+	font-family: "LatoThin";
+}
+
+.chips-bar{
+	display: flex;
+	flex-direction: row;
+	padding-bottom: 10px !important;
+	border-bottom: 1px solid #BDC5D4;
+
+}
+
+.chips-bar .chip{
+	margin-left: 3px !important;
+	margin-right: 3px !important;
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+	color: white !important;
+	background: #4B679B !important;
+}
+
+.chips-bar .chip p,
+.chips-bar .chip a{
+	color: white !important;
+}
+
 .block{
 	margin: 40px 0px;
+	/*border: 1px solid;*/
 	/*border-bottom: 2px solid cornflowerblue; */
 }
 
+/*.block *{
+	border: 1px solid;
+}*/
+
 .block-title{
 	flex-direction: row;
-	justify-content: center;
 	align-items: center;
+	justify-content: center;
 }
 
 .block-title p.title{
-	font-family: "SourceSansProRegular";
-	font-size: 2.3em;
-	font-weight: 300;
+	font-family: "LatoMedium";
+	font-size: 2.4em;
+	font-weight: 500;
 	color: cornflowerblue;
 }
 
@@ -304,11 +364,6 @@ header a{
 	margin: 0 10% 0 30px;
 }
 
-
-.past_recruiters .body img {
-	margin: 20px 0;
-}
-
 #tpo_message #pic{
 	margin: 30px;
 	margin-right: 70px;
@@ -320,8 +375,11 @@ header a{
 	letter-spacing: 2px;
 }
 
+#past_recruiters{
+	/*background: -webkit-linear-gradient(left, #67c082, #47b8e5) !important;*/
+}
+
 #past_recruiters>div:not(:first-child){
-	/*background: black;*/
 	margin-top: 35px;
 	margin-bottom: 35px;
 }
@@ -336,15 +394,9 @@ header a{
 	}
 }
 
-/*Achivements page needed styles*/
-.lab_list,
-.it,
-.dispaly-pic {
-	margin-top: 60px;
-}
 
 .lab_list ul li{
-	list-style: circle;
+	list-style: disc;
 }
 
 .lab_gallery img {
@@ -354,7 +406,7 @@ header a{
 
 .it ul li, 
 .ece ul li {
-	margin-left: 20px;
+	margin-left: 30px;
 	list-style: circle;
 }
 
@@ -364,9 +416,17 @@ footer{
 	/*background: -webkit-linear-gradient(left, #67c082, #47b8e5) !important; */
 	/*background: cornflowerblue !important;*/
 	margin-top: 15vh !important;
-	background: #1C438A !important;
+	/*background: #1C438A !important;*/
+
+	background: #1A2980 !important; 
+	/*background: -webkit-linear-gradient(right, #1A2980 , #26D0CE) !important; /* Chrome 10-25, Safari 5.1-6 */*/
+	/*background: linear-gradient(to left, #1A2980 , #26D0CE);  W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 footer .footer-copyright{
-	background: #163979 !important;	
+	/*background: #163979 !important;	*/
 }
+
+
+
+/*background: #2BC0E4;*/
