@@ -250,7 +250,7 @@ header a{
 #site-name h5 a{
 	position: relative;
 	letter-spacing: initial;
-	font-size: 1.4em;
+	font-size: 1.3em;
 	color: #1C438A !important;
 }
 
@@ -399,10 +399,19 @@ header a{
 	}
 }
 
+#it ul > li,
+#ece ul > li,
 #it ul > li > ul >li, 
-#ece ul > li > ul > li{
+#ece ul > li > ul > li,
+#lab_list ul > li,
+#courses ul > li {
 	margin-left: 30px;
 	list-style: circle;
+}
+
+.body h5 {
+	color: cornflowerblue;
+	font-family: LatoMedium; 
 }
 
 #iiita_campus img{
@@ -443,6 +452,7 @@ header a{
 	font-weight: 500;
 	text-indent: 20px;
 	border-bottom: 1px solid #164896;
+	cursor: pointer;
 }
 
 #course_overview div.body .course-head .toggle-course-body{

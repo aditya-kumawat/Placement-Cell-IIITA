@@ -129,7 +129,7 @@
 			</div>
 		</div>
 
-		<div class="row block">
+		<div class="row block" id="courses">
 			<div class="block-title col s12 valign-wrapper">
 				<span class="valign leftline"></span>
 				<p class="valign title">Courses</p>

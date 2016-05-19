@@ -129,15 +129,15 @@
 					<b>Students at IIIT Allahabad </b>are encouraged and nurtured to strive for excellence in their respective fields through cutting edge research and development which is aided through various academic programmes run by the departments. We take great pride in our nationally and internationally sponsored projects that are being successfully carried out in collaboration with some of the world's leading universities and organizations.
 				</p>
 				<p>
-					<strong><b>STUDENT PROJECTS</b></strong><br>
+					<h5>Student Projects</h5>
 					It is mandatory for all B.Tech, M.Tech, MS, MBA and Ph.D. students to take up projects under the guidance of specialist faculties. The projects are developmental and application based with emphasis on originality and creativity. Since several projects are being carried out in collaboration with the industry, the students get a chance to deal with and innovatively solve real life problems using their technical expertise.
 				</p>
 				<p>
-					<strong><b>RESEARCH PUBLICATIONS</b></strong><br>
+					<h5>Research Publications</h5>
 					Students are continuously encouraged to publish their research work and observations in the form of scientific papers in various revered national and international conference and esteemed journals.
 				</p>
 				<p>
-					<strong><b>PATENTS</b></strong><br>
+					<h5>Patents</h5>
 					Students who come up with original, innovative and pragmatic solutions to day to day problems are promoted and aided to file for national and international patents. The extensive R&amp;D done by the students has led to 11 patents being filed till now and more than 350 research paper are published every year by both faculty and students.
 				</p>
 			</div>

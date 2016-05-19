@@ -107,7 +107,7 @@ function navbarOperations(){
 }
 
 function coursesOperations(){
-	var $toggleCourseBodies = $("span.toggle-course-body");
+	var $toggleCourseBodies = $(".course-head");
 	$toggleCourseBodies.on("click",function(e){
 		$(this)
 			.closest(".course-container")
