@@ -239,6 +239,11 @@ header a{
 }
 /*all for the navbar menu till here...*/
 
+#iiitalogo{
+	width: auto;
+	height: 30px;
+	margin-right: 14px; 
+}
 
 #site-name h5{
 	line-height: 38px;
@@ -261,12 +266,24 @@ header a{
 }
 
 .home-slider {
-	height: 400px !important;
+	height: 500px !important;
 	overflow: hidden;
 }
 
 .home-slider ul.slides {
 	height: 100% !important;
+}
+
+.home-slider ul.slides li div.caption{
+	transform: translateY(90px) !important;
+}
+
+.home-slider ul.slides li div.caption h5{
+	color: white !important;
+}
+
+.home-slider ul.slides li div.caption h3{
+	color: #152E5D !important;
 }
 
 .home-slider ul.indicators {

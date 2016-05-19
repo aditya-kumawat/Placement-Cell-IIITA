@@ -30,67 +30,67 @@
 								<li class="menu-list-items">
 									<div class="submenu-head waves-effect waves-dark">
 										<i class="material-icons">business</i>
-										<a href="#">About IIITA</a>
+										<a href="javascript:void(0)">About IIITA</a>
 									</div>
-									<ul class="submenu-body">
+									<ul class="submenu-body" id="asd">
 										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="about_us.php">About College</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="">Infrastructure</a>
+											<i class="material-icons">fiber_manual_record</i><a href="infrastructure.php">Infrastructure</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="">Laboratories</a>
+											<i class="material-icons">fiber_manual_record</i><a href="laboratories.php">Laboratories</a>
 										</li>
 									</ul>
 								</li>
 								<li class="menu-list-items">
 									<div class="submenu-head waves-effect waves-dark">
 										<i class="material-icons">school</i>
-										<a href="#">Academics</a>
+										<a href="javascript:void(0)">Academics</a>
 									</div>
 									<ul class="submenu-body">
 										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="achievements.php">Achievements</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="">Courses</a>
+											<i class="material-icons">fiber_manual_record</i><a href="courses.php">Courses</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="">Demographics</a>
+											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Demographics</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="">Research & Development</a>
+											<i class="material-icons">fiber_manual_record</i><a href="research_and_development.php">Research &amp; Development</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="">Student Life</a>
+											<i class="material-icons">fiber_manual_record</i><a href="student_life.php">Student Life</a>
 										</li>
 									</ul>
 								</li>
 								<li class="menu-list-items">
 									<div class="submenu-head waves-effect waves-dark">
 										<i class="material-icons">supervisor_account</i>
-										<a href="#">Recruiters</a>
+										<a href="javascript:void(0)">Recruiters</a>
 									</div>
 									<ul class="submenu-body">
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="">Why Recruit?</a>
+											<i class="material-icons">fiber_manual_record</i><a href="why_recruit.php">Why Recruit?</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="">Statistics</a>
+											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Statistics</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="">Past Recruiters</a>
+											<i class="material-icons">fiber_manual_record</i><a href="past_recruiters.php">Past Recruiters</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="">Procedure and Policies</a>
+											<i class="material-icons">fiber_manual_record</i><a href="procedures_and_policies.php">Procedure and Policies</a>
 										</li>
 									</ul>
 								</li>
 								<li class="as menu-list-items">
 									<div class="submenu-head waves-effect waves-dark">
 										<i class="material-icons">place</i>
-										<a href="#" class="aasd">Reach Us</a>
+										<a href="contact_us.php">Reach Us</a>
 									</div>
 								</li>
 							</ul>
@@ -98,13 +98,13 @@
 					</div>
 				</div>
 				<div class="" id="site-name"> 
-					<h5 class="center-align"><a href="index.php">IIITA Placement Division</a></h5>
+					<h5 class="center-align"><img src="images/iiita/iiitalogo.png" id="iiitalogo"/><a href="index.php">IIITA Placement Division</a></h5>
 				</div>
-				<div class="" id="account">
+				<!-- <div class="" id="account">
 					<a href="javascript:void(0)" class="waves-effect waves-dark">
 						<i class="material-icons small">account_circle</i>
 					</a> 
-				</div>
+				</div> -->
 			</header>
 		</div>
 
@@ -141,7 +141,7 @@
 				</div>
 
 				<div class="row block" id="">
-					<h5>Cutting Edge Research Infra</h5>
+					<h5>Cutting Edge Research Infrastructure</h5>
 					<p>The infrastructure and research facilities of the institute are among the best in the field of IT and ECE. The student here get a hands on experience by working in world class labs with cutting edge equipment. This has led to 11 patents being filed till now and more than 350 research paper are published every year.</p>
 				</div>
 				

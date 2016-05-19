@@ -74,16 +74,16 @@
 									</div>
 									<ul class="submenu-body">
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Why Recruit?</a>
+											<i class="material-icons">fiber_manual_record</i><a href="why_recruit.php">Why Recruit?</a>
 										</li>
 										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Statistics</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Past Recruiters</a>
+											<i class="material-icons">fiber_manual_record</i><a href="past_recruiters.php">Past Recruiters</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Procedure and Policies</a>
+											<i class="material-icons">fiber_manual_record</i><a href="procedures_and_policies.php">Procedure and Policies</a>
 										</li>
 									</ul>
 								</li>
@@ -98,30 +98,30 @@
 					</div>
 				</div>
 				<div class="" id="site-name"> 
-					<h5 class="center-align"><a href="index.php">IIITA Placement Division</a></h5>
+					<h5 class="center-align"><img src="images/iiita/iiitalogo.png" id="iiitalogo"/><a href="index.php">IIITA Placement Division</a></h5>
 				</div>
-				<div class="" id="account">
+				<!-- <div class="" id="account">
 					<a href="javascript:void(0)" class="waves-effect waves-dark">
 						<i class="material-icons small">account_circle</i>
 					</a> 
-				</div>
+				</div> -->
 			</header>
 		</div>
 
 		<div class="slider home-slider">
 			<ul class="slides">
 				<li>
-					<img src="images/2.jpg"> <!-- random image -->
-					<div class="caption left-align">
-					  <h3>This is our big Tagline!</h3>
-					  <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+					<img src="images/iiita/iiitacover2.jpg">
+					<div class="caption center-align">
+						<h3 class="white-text">Welcome</h3>
 					</div>
 				</li>
 				<li>
-					<img src="images/2.jpg"> <!-- random image -->
+					<img src="images/iiita/iiitacover.jpg">
 					<div class="caption center-align">
-					  <h3>This is our big Tagline!</h3>
-					  <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+			        	<h5 class="white-text">
+			        		Our students are a mosaic of innovation, brilliance and sincerity with a zeal for making their mark in the world
+			        	</h5>
 					</div>
 				</li>
 			</ul>
@@ -134,7 +134,7 @@
 				<span class="valign rightline"></span>
 			</div>
 			<div class="col s10 offset-s1 body">
-				<img src="images/pic.jpg" class="col s8 m3 l3 responsive-img" id="pic">
+				<img src="images/iiita/shirshuverma.jpg" class="col s8 m3 l3 responsive-img" id="pic">
 				<p id="message">
 					<i class="material-icons" style="transform:rotateY(180deg)">format_quote</i>
 					IIIT Allahabad has successfully established itself as a premier technological institute in a relatively short span of 15 years since its inception in 1999. Our students have been continuously proving their mettle in terms of their grasp of core competencies, their potential to innovate, their arduous nature and well-rounded personalities. The alumni of our institute are doing excellent work and proving to be an asset for their organization.We therefore receive a very positive industry response from our recruiters every year and their feedback about our students has always been very encouraging. The institute offers campus placement for students graduating with Bachelor of Technology and Master of Technology. Our institute has excellent facilities and provides all necessary help for our campus recruiters to conduct a successful placement session. We take this opportunity to invite your esteemed organization to visit our campus for recruitment. It will be a privilege for us to welcome you at IIIT Allahabad.

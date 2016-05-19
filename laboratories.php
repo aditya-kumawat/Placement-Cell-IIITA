@@ -74,16 +74,16 @@
 									</div>
 									<ul class="submenu-body">
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Why Recruit?</a>
+											<i class="material-icons">fiber_manual_record</i><a href="why_recruit.php">Why Recruit?</a>
 										</li>
 										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Statistics</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Past Recruiters</a>
+											<i class="material-icons">fiber_manual_record</i><a href="past_recruiters.php">Past Recruiters</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Procedure and Policies</a>
+											<i class="material-icons">fiber_manual_record</i><a href="procedures_and_policies.php">Procedure and Policies</a>
 										</li>
 									</ul>
 								</li>
@@ -98,15 +98,16 @@
 					</div>
 				</div>
 				<div class="" id="site-name"> 
-					<h5 class="center-align"><a href="index.php">IIITA Placement Division</a></h5>
+					<h5 class="center-align"><img src="images/iiita/iiitalogo.png" id="iiitalogo"/><a href="index.php">IIITA Placement Division</a></h5>
 				</div>
-				<div class="" id="account">
+				<!-- <div class="" id="account">
 					<a href="javascript:void(0)" class="waves-effect waves-dark">
 						<i class="material-icons small">account_circle</i>
 					</a> 
-				</div>
+				</div> -->
 			</header>
 		</div>
+		
 		<div class="row page-title">
 		 	<h2 class="white-text center-align">Laboratories</h2> 
 		</div>
