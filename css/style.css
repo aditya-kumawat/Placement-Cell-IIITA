@@ -404,9 +404,19 @@ header a{
 #it ul > li > ul >li, 
 #ece ul > li > ul > li,
 #lab_list ul > li,
-#courses ul > li {
+#courses ul > li,
+#sponsored_projects ul > li,
+#placement_facilities ul > li,
+#placement_policy ul > li {
 	margin-left: 30px;
+	margin-bottom: 5px;
 	list-style: circle;
+}
+
+#placement_procedure ul > li {
+	margin-left: 30px;
+	margin-bottom: 5px;
+	list-style: decimal;
 }
 
 .body h5 {

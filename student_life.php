@@ -125,8 +125,7 @@
 
 		<div class="row block">
 			<div class="col s10 offset-s1 body">
-				<p>
-					Unsurprisingly the grounds on which an institute stands is determined by the expertise and erudition of its students who play paramount role in shaping its destiny. IIIT-A is fortunate to have students who not only conquer the mountains but are also pronounced in extra-curricular activities. Students’ life is engrossed in rich ventures and they have the potential as well as elbow room to showcase their talent on various undertakings. A host of activities ranging from inter-campus to national levels are organized and managed by the enlightened students of our institute.</p>
+				<p>Unsurprisingly the grounds on which an institute stands is determined by the expertise and erudition of its students who play paramount role in shaping its destiny. IIIT-A is fortunate to have students who not only conquer the mountains but are also pronounced in extra-curricular activities. Students’ life is engrossed in rich ventures and they have the potential as well as elbow room to showcase their talent on various undertakings. A host of activities ranging from inter-campus to national levels are organized and managed by the enlightened students of our institute.</p>
 			</div>
 		</div>
 
