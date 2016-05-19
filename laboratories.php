@@ -17,7 +17,7 @@
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 	</head>
 	<body>
-				<div class="row" id="header-wrapper">
+		<div class="row" id="header-wrapper">
 			<header class="col s12">
 				<div class="" id="nav-menu">
 					<a href="javascript:void(0)" class="menu-trigger waves-effect waves-dark">
@@ -54,7 +54,7 @@
 											<i class="material-icons">fiber_manual_record</i><a href="achievements.php">Achievements</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Courses</a>
+											<i class="material-icons">fiber_manual_record</i><a href="courses.php">Courses</a>
 										</li>
 										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Demographics</a>
@@ -107,7 +107,6 @@
 				</div>
 			</header>
 		</div>
-
 		<div class="row page-title">
 		 	<h2 class="white-text center-align">Laboratories</h2> 
 		</div>
@@ -179,7 +178,7 @@
 			</div>
 		</div>
 
-    	<footer class="page-footer">
+		<footer class="page-footer">
 			<div class="container">
 				<div class="row">
 					<div class="col l6 s12">
@@ -203,7 +202,8 @@
    		</footer>
 
 		<!--Import jQuery before materialize.js-->
-		<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+		<!-- <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script> -->
+		<script type="text/javascript" src="js/jquery-1.12.2.js"></script>
 		<script type="text/javascript" src="js/materialize.min.js"></script>
 		<script type="text/javascript" src="js/script.js"></script>
 	</body>

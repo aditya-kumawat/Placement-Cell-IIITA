@@ -17,7 +17,7 @@
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 	</head>
 	<body>
-				<div class="row" id="header-wrapper">
+		<div class="row" id="header-wrapper">
 			<header class="col s12">
 				<div class="" id="nav-menu">
 					<a href="javascript:void(0)" class="menu-trigger waves-effect waves-dark">
@@ -54,7 +54,7 @@
 											<i class="material-icons">fiber_manual_record</i><a href="achievements.php">Achievements</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Courses</a>
+											<i class="material-icons">fiber_manual_record</i><a href="courses.php">Courses</a>
 										</li>
 										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Demographics</a>
@@ -107,6 +107,7 @@
 				</div>
 			</header>
 		</div>
+		
 		<div class="row page-title">
 		 	<h2 class="white-text center-align">Student Life</h2> 
 		</div>

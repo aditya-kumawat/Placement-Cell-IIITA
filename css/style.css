@@ -341,7 +341,8 @@ header a{
 	transition: border-bottom 0.4s;
 }
 
-.block-title span{
+.block-title span.leftline,
+.block-title span.rightline{
 	flex-grow: 1;
 	height: 2px;
 	background: cornflowerblue;
@@ -419,6 +420,108 @@ header a{
 		margin: 20px calc( 100% * 3/12 * 1/6);
 	}
 }
+
+/*styles for the courses page*/
+#course_overview{
+
+}
+
+#course_overview div.body{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+#course_overview div.body .course-head{
+	position: relative;
+	display: flex;
+	flex-direction: row;
+	/*color: cornflowerblue;*/
+	color: #164896;
+	font-family: "LatoLight";
+	font-size: 1.3em;
+	font-weight: 500;
+	text-indent: 20px;
+	border-bottom: 1px solid #164896;
+}
+
+#course_overview div.body .course-head .toggle-course-body{
+	position: absolute;
+	top: 15px;
+	right: 15px;
+	width: 30px;
+	height: 30px;
+	cursor: pointer;
+	transition: transform 0.2s;
+}
+
+#course_overview .course-container.course-body-closed .course-head .toggle-course-body{
+	transform: rotateZ(0deg);
+}
+
+#course_overview .course-container.course-body-open .course-head .toggle-course-body{
+	transform: rotateZ(180deg);
+}
+
+#course_overview div.body .course-head .toggle-course-body:before,
+#course_overview div.body .course-head .toggle-course-body:after{
+	position: absolute;
+	content: "";
+	top: 50%;
+	left: 0;
+	width: 100%;
+	border: 1px solid #164896;
+	transition: transform 0.2s;
+}
+
+#course_overview .course-container.course-body-closed .course-head .toggle-course-body:before{
+	transform: rotateZ(90deg);
+}
+
+#course_overview .course-container.course-body-open .course-head.course-body-open .toggle-course-body:before{
+	transform: rotateZ(0deg);
+}
+
+#course_overview div.body .course-body{
+	display: none;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.course-body > div.courses{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	flex-grow: 1;
+	padding: 20px;
+}
+
+.course-body > div.courses > p{
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.course-body > div.courses > ul{
+	list-style: disc;
+	margin-bottom: 40px;
+}
+/*.course-structure {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: flex-start;
+
+}
+
+.course-structure > div.courses{
+	flex-grow: 1;
+	margin: 20px;
+}*/
+
+
 /*Footer styles*/
 footer{
 	/*background: -webkit-linear-gradient(left, #67c082, #47b8e5) !important; */

@@ -3,6 +3,9 @@ $(document).ready(function() {
 	navbarOperations();
 	$('.slider').slider();
 	$('.materialboxed').materialbox();
+	if($("#course_overview")){
+		coursesOperations();
+	}
 });
 
 function navbarOperations(){
@@ -100,5 +103,17 @@ function navbarOperations(){
 				.find(".submenu-body")
 				.slideToggle();
 		}
+	});
+}
+
+function coursesOperations(){
+	var $toggleCourseBodies = $("span.toggle-course-body");
+	$toggleCourseBodies.on("click",function(e){
+		$(this)
+			.closest(".course-container")
+			.toggleClass("course-body-open")
+			.toggleClass("course-body-closed")
+			.find(".course-body")
+			.slideToggle("slow");
 	});
 }
