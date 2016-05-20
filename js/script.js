@@ -37,7 +37,10 @@ function navbarOperations(){
 				$menuWrapper.removeClass("open-part");
 				isMenuIconOpen = false;
 			}
-			$("li.menu-list-items.show-submenu-body").removeClass("show-submenu-body");
+			$("li.menu-list-items.show-submenu-body")
+				.removeClass("show-submenu-body")
+				.find(".submenu-body")
+				.slideToggle();
 		}
 		e.stopPropagation();
 	});
