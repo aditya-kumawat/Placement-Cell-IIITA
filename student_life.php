@@ -90,7 +90,13 @@
 								<li class="as menu-list-items">
 									<div class="submenu-head waves-effect waves-dark">
 										<i class="material-icons">place</i>
-										<a href="contact_us.php">Reach Us</a>
+										<a href="reach_us.php">Reach Us</a>
+									</div>
+								</li>
+								<li class="as menu-list-items">
+									<div class="submenu-head waves-effect waves-dark">
+										<i class="material-icons">contact_phone</i>
+										<a href="contact_us.php">Contact Us</a>
 									</div>
 								</li>
 							</ul>
@@ -189,15 +195,21 @@
     	<footer class="page-footer">
 			<div class="container">
 				<div class="row">
-					<div class="col l6 s12">
-						<h5 class="white-text">Footer Content</h5>
-						<p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+					<div class="col m6 s12">
+						<h5 class="white-text">Contacts</h5>
+						<p class="grey-text text-lighten-4 col m6 s12">
+							Dr. Shirshu Varma<br>Faculty Incharge<br>Training &amp; Placements<br>+91-9450965329
+						</p>
+						<p class="grey-text text-lighten-4 col m6 s12">
+							Manav Sharma<br>Student Coordinator,Training and Placements<br>+91-9455999955
+						</p>
 					</div>
-					<div class="col l4 offset-l2 s12">
-						<h5 class="white-text">Links</h5>
+					<div class="col m4 offset-m2 s12">
+						<h5 class="white-text ">Links</h5>
 						<ul>
-						  <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
-						  <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
+						  <li><a class="grey-text text-lighten-3" href="procedures_and_policies.php">Placement procedure</a></li>
+						  <li><a class="grey-text text-lighten-3" href="IIIT-A Placement Brochure 2015-16.pdf">Official Brochure</a></li>
+						  <li><a class="grey-text text-lighten-3" href="past_recruiters.php">Past Recruiters</a></li>
 						</ul>
 					</div>
 				</div>

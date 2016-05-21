@@ -241,8 +241,15 @@ header a{
 
 #iiitalogo{
 	width: auto;
-	height: 30px;
+	height: 28px;
 	margin-right: 14px; 
+}
+
+@media screen and (max-width: 600px){
+	#iiitalogo{
+		height: 17px ;
+		margin-right: 7px;
+	}
 }
 
 #site-name h5{
@@ -558,23 +565,79 @@ header a{
 	margin: 20px;
 }*/
 
+.contact-card{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	min-height: 460px;
+	margin: 0 calc(100% * 3/12 * 1/6) !important;
+}
+
+@media screen and (max-width: 992px){
+	.contact-card{
+		min-height: 100px;
+		flex-direction: row;
+		margin-top: 10px !important;
+		margin-bottom: 10px !important;
+	}
+
+	.contact-card.offset-s1{
+		margin-left: 8.3333333333% !important;
+	}
+}
+
+@media screen and (min-width: 601px) and (max-width: 992px){
+	.contact-card .contact-image{
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}	
+}
+
+.contact-card .contact-image img{
+	display: block;
+	width: 80% !important;
+	margin: 0 auto !important;
+}
+
+.contact-card .contact-details{
+	text-align: center
+}
+
+#queryform label.active,
+#queryform .input-field .prefix.active{
+	color: cornflowerblue !important;
+}
+
+#queryform input[type="email"]:focus:not([readonly]),
+#queryform input[type="number"]:focus:not([readonly]),
+#queryform input[type="email"]:focus:not([readonly]),
+#queryform textarea:focus:not([readonly]){
+	border-bottom: 1px solid cornflowerblue !important;
+	box-shadow: 0 1px 0 0 cornflowerblue !important;
+}
+
+#queryform textarea{
+	height: 110px !important;
+}
+
+#queryform button[type="submit"]{
+	background: cornflowerblue !important;
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+}
+
 
 /*Footer styles*/
 footer{
-	/*background: -webkit-linear-gradient(left, #67c082, #47b8e5) !important; */
-	/*background: cornflowerblue !important;*/
 	margin-top: 15vh !important;
-	/*background: #1C438A !important;*/
-
 	background: #1A2980 !important; 
-	/*background: -webkit-linear-gradient(right, #1A2980 , #26D0CE) !important; /* Chrome 10-25, Safari 5.1-6 */*/
-	/*background: linear-gradient(to left, #1A2980 , #26D0CE);  W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-footer .footer-copyright{
-	/*background: #163979 !important;	*/
+footer.page-footer .footer-copyright{
+	height: initial !important;
+	min-height: 30px !important;
+	line-height: initial !important;
+	padding-top: 2px !important;
+	padding-bottom: 2px !important;
 }
-
-
-
-/*background: #2BC0E4;*/
