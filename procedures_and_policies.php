@@ -121,10 +121,16 @@
 		<div class="row chip-bar-container hide-on-small-only">
 			<div class="col s12 m10 offset-m1 chips-bar">
 				<div class="chip">
-					<a href="laboratories.php">Recruiters</a>
+					<a href="#job_policy">Job Policy</a>
 				</div>
 				<div class="chip">
-					<a href="laboratories.php">Procedures and Policies</a>
+					<a href="#placement_procedure">Placement Procedure</a>
+				</div>
+				<div class="chip">
+					<a href="#placement_facilities">Placement Facilities</a>
+				</div>
+				<div class="chip">
+					<a href="#placement_policy">Placement Policy</a>
 				</div>
 			</div>
 		</div>
@@ -137,7 +143,7 @@
 			</div>
 			<div class="col s10 offset-s1 body">
 				<p>Companies visit campus and select students as per their recruitment drive.</p>
-				<p>To a student finally selected by a company after all testing and interview rounds, the company may offer 3 types of jobs:</p>
+				<p>To a student finally selected by a company after all testing and interview rounds, the company may offer 2 types of jobs:</p>
 				<div class="row block">
 					<h5>Full time job offer without any 6 month intern</h5>
 					<p>The selected student will join company in June 2015 as full time employee. He/she will spend their 8th semester in college doing Major Project(which is the time for the 6 month internship).</p>

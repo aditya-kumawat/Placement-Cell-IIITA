@@ -104,10 +104,7 @@
 					</div>
 				</div>
 				<div class="" id="site-name"> 
-					<h5 class="center-align">
-						<img src="images/iiita/iiitalogo.png" id="iiitalogo"/>
-						<a href="index.php">IIITA Placement Division</a>
-					</h5>
+					<h5 class="center-align"><img src="images/iiita/iiitalogo.png" id="iiitalogo"/><a href="index.php">IIITA Placement Division</a></h5>
 				</div>
 				<!-- <div class="" id="account">
 					<a href="javascript:void(0)" class="waves-effect waves-dark">
@@ -115,97 +112,54 @@
 					</a> 
 				</div> -->
 			</header>
-		</div>
-
+		</div>		
 		<div class="row page-title">
-		 	<h2 class="white-text center-align">Contacts</h2> 
+		 	<h2 class="white-text center-align">Reach Us</h2> 
 		</div>
 
 		<div class="row chip-bar-container hide-on-small-only">
 			<div class="col s12 m10 offset-m1 chips-bar">
 				<div class="chip">
-					<a href="#contacts">Contacts</a>
+					<a href="#reach_us_map">Map</a>
 				</div>
 				<div class="chip">
-					<a href="#query">Query Form</a>
+					<a href="#ways_to_reach">Ways to reach</a>
 				</div>
 			</div>
 		</div>
 
-		<div class="row block" id="contacts">	
-			<div class="block-title col s12 valign-wrapper">
-				<span class="valign leftline"></span>
-				<p class="valign title">Contacts</p>
-				<span class="valign rightline"></span>
-			</div>
-			<div class="col s12">
-				<div class="col s10 offset-s1 l3 card-panel contact-card">
-					<div class="col s4 m12 contact-image">
-						<img class="responsive-img circle" src="images/iiita/shirshuvermacontact.jpg"> 
-					</div>
-					<div class="col s8 m12 contact-details">
-						<p><big><b>Dr. Shirshu Verma</b></big></p>
-						<p>
-							Faculty Incharge, Training and Placements<br>tpo@iiita.ac.in, placements@iiita.ac.in<br>+91-9450965329
-						</p>
-					</div>
-				</div>
-				<div class="col s10 offset-s1 l3 card-panel contact-card">
-					<div class="col s4 m12 contact-image">
-						<img class="responsive-img circle" src="images/iiita/manavsharmacontact.jpg"> 
-					</div>
-					<div class="col s8 m12 contact-details">
-						<p><big><b>Manav Sharma</b></big></p>
-						<p>
-							Student Coordinator,Training and Placements<br>placements@iiita.ac.in<br>+91-9455999955
-						</p>
-					</div>
-				</div>
-				<div class="col s10 offset-s1 l3 card-panel contact-card">
-					<div class="col s4 m12 contact-image">
-						<img class="responsive-img circle" src="images/iiita/himanshuvimalcontact.jpg"> 
-					</div>
-					<div class="col s8 m12 contact-details">
-						<p><big><b>Himanshu Vimal</b></big></p>
-						<p>
-							Student Coordinator(PG)<br>placements@iiita.ac.in<br>+91-9450965329
-						</p>				
-					</div>
-				</div>
+		<div class="row block" id="reach_us_map">
+			<div class="col s10 offset-s1 body">
+				<div id="map"></div>
+				<p>The IIITA campus is located at Deoghat, Jhalwa (Peepalgaon Road), which is on the outskirts of Allahabad. It is 10 km from the town center and 7 km from the main railway station. Allahabad is well connected by air, rail and road to all the metros.</p>
 			</div>
 		</div>
 
-		<div class="row block" id="query">
+		<div class="row block" id="ways_to_reach">
 			<div class="block-title col s12 valign-wrapper">
 				<span class="valign leftline"></span>
-				<p class="valign title">Send us your query</p>
+				<p class="valign title">Ways to reach</p>
 				<span class="valign rightline"></span>
 			</div>
 			<div class="col s10 offset-s1 body">
-				<form class="col s10 offset-s1 center" id="queryform" action="mailto:placements@iiita.ac.in" method="get" enctype="text/plain">
-					<div class="input-field col s12">	
-						<i class="material-icons prefix">email</i>
-						<label for="email">Enter your email : </label>
-						<input type="email" id="email" name="email" required>
-					</div>
-					<div class="input-field col s12">	
-						<i class="material-icons prefix">phone</i>
-						<label for="phoneno">Contact No. :  </label>
-						<input type="number" max="100000000000" min="0" id="phoneno" name="phoneno" required>
-					</div>
-					<div class="input-field col s12">
-						<i class="material-icons prefix">question_answer</i>
-						<textarea id="message" class="materialize-textarea" rows="100"></textarea>
-						<label for="message">Your message : </label>
-					</div>
-					<button class="btn waves-effect waves-light center-align" type="submit" name="sendmessage">Send
-						<i class="material-icons right">send</i>
-					</button>
-				</form>
+				<div class="row block">
+					<h5>Airways</h5>
+					<p>Allahabad is linked to New Delhi and Mumbai with two flights of Air India. The other nearby airports are Lucknow & Varanasi which is well connected to all the major cities.</p>
+				</div>
+
+				<div class="row block">
+					<h5>Railways</h5>
+					<p>Allahabad is a major railway junction and is well connected to the entire country through trains. All the Rajdhanis crossing the North Central Region halt at Allahabad.</p>
+				</div>
+
+				<div class="row block">
+					<h5>Roadways</h5>
+					<p>The roadways network connects Allahabad to all major destinations with several Volvo Buses plying throughout the day between Allahabad and the nearby cities including Lucknow, Varanasi, Kanpur etc.</p>
+				</div>
 			</div>
 		</div>
 
-		<footer class="page-footer">
+   		<footer class="page-footer">
 			<div class="container">
 				<div class="row">
 					<div class="col m6 s12">
@@ -239,5 +193,6 @@
 		<script type="text/javascript" src="js/jquery-1.12.2.js"></script>
 		<script type="text/javascript" src="js/materialize.min.js"></script>
 		<script type="text/javascript" src="js/script.js"></script>
+		<script src="http://maps.googleapis.com/maps/api/js"></script>
 	</body>
 </html>

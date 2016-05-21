@@ -121,16 +121,10 @@
 		<div class="row chip-bar-container hide-on-small-only">
 			<div class="col s12 m10 offset-m1 chips-bar">
 				<div class="chip">
-					<a href="#">Academics</a>
+					<a href="#courses">Courses</a>
 				</div>
 				<div class="chip">
-					<a href="courses.php">Courses</a>
-				</div>
-				<div class="chip">
-					<a href="#">UG</a>
-				</div>
-				<div class="chip">
-					<a href="#">PG</a>
+					<a href="#course_overview">Course Overview</a>
 				</div>
 			</div>
 		</div>

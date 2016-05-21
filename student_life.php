@@ -118,7 +118,7 @@
 		 	<h2 class="white-text center-align">Student Life</h2> 
 		</div>
 		
-		<div class="row chip-bar-container hide-on-small-only">
+<!-- 		<div class="row chip-bar-container hide-on-small-only">
 			<div class="col s12 m10 offset-m1 chips-bar">
 				<div class="chip">
 					<a href="#">Academics</a>
@@ -127,7 +127,7 @@
 					<a href="student_life.php">Student Lifestyle</a>
 				</div>
 			</div>
-		</div>
+		</div> -->
 
 		<div class="row block">
 			<div class="col s10 offset-s1 body">

@@ -121,15 +121,15 @@
 		<div class="row chip-bar-container hide-on-small-only">
 			<div class="col s12 m10 offset-m1 chips-bar">
 				<div class="chip">
-					<a href="#">Academics</a>
+					<a href="#r_and_d">R &amp; D</a>
 				</div>
 				<div class="chip">
-					<a href="research_and_development.php">R &amp; D</a>
+					<a href="#sponsored_projects">Sponsored Projects</a>
 				</div>
 			</div>
 		</div>
 		
-		<div class="row block">
+		<div class="row block" id="r_and_d">
 			<div class="col s10 offset-s1 body">
 				<p>
 					<b>Students at IIIT Allahabad </b>are encouraged and nurtured to strive for excellence in their respective fields through cutting edge research and development which is aided through various academic programmes run by the departments. We take great pride in our nationally and internationally sponsored projects that are being successfully carried out in collaboration with some of the world's leading universities and organizations.

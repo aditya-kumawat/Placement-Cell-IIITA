@@ -121,10 +121,10 @@
 		<div class="row chip-bar-container hide-on-small-only">
 			<div class="col s12 m10 offset-m1 chips-bar">
 				<div class="chip">
-					<a href="laboratories.php">Recruiters</a>
+					<a href="laboratories.php">Past Recruiters</a>
 				</div>
 				<div class="chip">
-					<a href="laboratories.php">Past Recruiters</a>
+					<a href="laboratories.php">Job Internships</a>
 				</div>
 			</div>
 		</div>

@@ -121,16 +121,10 @@
 		<div class="row chip-bar-container hide-on-small-only">
 			<div class="col s12 m10 offset-m1 chips-bar">
 				<div class="chip">
-					<a href="#">IIITA</a>
+					<a href="#iiita_campus">Campus</a>
 				</div>
 				<div class="chip">
-					<a href="infrastructure.php">Infrastructure</a>
-				</div>
-				<div class="chip">
-					<a href="infrastructure.php">Campus</a>
-				</div>
-				<div class="chip">
-					<a href="infrastructure.php">Facilities</a>
+					<a href="#campus_images">Campus Gallery</a>
 				</div>	
 			</div>
 		</div>
@@ -159,7 +153,7 @@
 		<div class="row block" id="campus_images">
 			<div class="block-title col s12 valign-wrapper">
 				<span class="valign leftline"></span>
-				<p class="valign title">Images</p>
+				<p class="valign title">Campus Gallery</p>
 				<span class="valign rightline"></span>
 			</div>
 			<div class="col s10 offset-s1 body">

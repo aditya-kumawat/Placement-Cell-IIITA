@@ -118,7 +118,7 @@
 		 	<h2 class="white-text center-align">Why Recruit?</h2> 
 		</div>
 
-		<div class="row chip-bar-container hide-on-small-only">
+<!-- 		<div class="row chip-bar-container hide-on-small-only">
 			<div class="col s12 m10 offset-m1 chips-bar">
 				<div class="chip">
 					<a href="#">Recruiters</a>
@@ -127,7 +127,7 @@
 					<a href="achievements.php">Why Recruit?</a>
 				</div>
 			</div>
-		</div>
+		</div> -->
 		<div class="row" id="why_recurit">
 			<div class="col s10 offset-s1 body">
 				<div class="row block" id="">

@@ -119,4 +119,16 @@ function coursesOperations(){
 			.find(".course-body")
 			.slideToggle("slow");
 	});
+
+	// map
+	myCenter = new google.maps.LatLng(25.431487, 81.771044);
+	var map = new google.maps.Map(document.getElementById('map'), {
+	    center: myCenter,
+    	zoom: 14,
+    	mapTypeId: google.maps.MapTypeId.ROADMAP
+  	});
+  	var marker=new google.maps.Marker({
+		position:myCenter,
+	});
+	marker.setMap(map);
 }

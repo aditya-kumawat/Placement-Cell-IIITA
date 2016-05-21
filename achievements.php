@@ -120,10 +120,10 @@
 		<div class="row chip-bar-container hide-on-small-only">
 			<div class="col s12 m10 offset-m1 chips-bar">
 				<div class="chip">
-					<a href="#">Academics</a>
+					<a href="#it">IT</a>
 				</div>
 				<div class="chip">
-					<a href="achievements.php">Achievements</a>
+					<a href="#ece">ECE</a>
 				</div>
 			</div>
 		</div>

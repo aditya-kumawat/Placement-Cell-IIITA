@@ -627,6 +627,9 @@ header a{
 	padding-right: 10px !important;
 }
 
+#map {
+	height: 400px;
+}
 
 /*Footer styles*/
 footer{

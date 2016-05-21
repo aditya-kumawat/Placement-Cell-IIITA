@@ -121,13 +121,10 @@
 		<div class="row chip-bar-container hide-on-small-only">
 			<div class="col s12 m10 offset-m1 chips-bar">
 				<div class="chip">
-					<a href="#">IIITA</a>
+					<a href="#history">History</a>
 				</div>
 				<div class="chip">
-					<a href="about_us.php">History</a>
-				</div>
-				<div class="chip">
-					<a href="about_us.php">Mission</a>
+					<a href="#mission">Mission</a>
 				</div>
 			</div>
 		</div>
