@@ -123,120 +123,77 @@
 		</div>
 		
 		<div class="row page-title">
-		 	<h2 class="white-text center-align">Procedures and Policies</h2> 
+		 	<h2 class="white-text center-align">Academic Exchange Programs</h2> 
 		</div>
 
 		<div class="row chip-bar-container hide-on-small-only">
 			<div class="col s12 m10 offset-m1 chips-bar">
 				<div class="chip">
-					<a href="#job_policy">Job Policy</a>
+					<a href="#">Academics</a>
 				</div>
 				<div class="chip">
-					<a href="#placement_procedure">Placement Procedure</a>
-				</div>
-				<div class="chip">
-					<a href="#placement_facilities">Placement Facilities</a>
-				</div>
-				<div class="chip">
-					<a href="#placement_policy">Placement Policy</a>
+					<a href="#">Exchange programs</a>
 				</div>
 			</div>
 		</div>
 
-		<div class="row block" id="job_policy">
-			<div class="block-title col s12 valign-wrapper">
-				<span class="valign leftline"></span>
-				<p class="valign title">Job Policy</p>
-				<span class="valign rightline"></span>
-			</div>
-			<div class="col s10 offset-s1 body">
-				<p>Companies visit campus and select students as per their recruitment drive.</p>
-				<p>To a student finally selected by a company after all testing and interview rounds, the company may offer 2 types of jobs:</p>
-				<div class="row block">
-					<h5>Full time job offer without any 6 month intern</h5>
-					<p>The selected student will join company in June 2015 as full time employee. He/she will spend their 8th semester in college doing Major Project(which is the time for the 6 month internship).</p>
-				</div>
-				<div class="row block">
-					<h5>Full time job offer with 6 month intern</h5>
-					<p>The selected student will join company in Jan 2015 and will work till June 2015 as an intern i.e he/she will spend their 8th semester working in the company as intern. After June 2015, they will automatically resume their work in the company as full time employes.</p>
-				</div>
-			</div>
-		</div>
 
-		<div class="row block" id="placement_procedure">
-			<div class="block-title col s12 valign-wrapper">
-				<span class="valign leftline"></span>
-				<p class="valign title">Placement Procedure</p>
-				<span class="valign rightline"></span>
-			</div>
+		<div class="row block" id="exchange_program_institutions">
 			<div class="col s10 offset-s1 body">
-				<ul>
-					<li>The Placement Office sends invitations to the companies/organizations along with relevant information.</li>
-					<li>Companies register and create account on the online placement portal: http://placement.iiita.ac.in/</li>
-					<li>A Company/Organization fills the Job Notification Form containing details of the job profile and the offer using their online account.</li>
-					<li>The relevant details from JNF are provided online to the students, along with any other information furnished by company/organization. Interested and eligible (as per the criteria specified by the organizations) students register to appear for the recruitment process of a company.</li>
-					<li>The verified resumes of all such students become available to the organization for downloading or viewing through their placement account.</li>
-					<li>Placement Office allots dates for recruitment procedure by. Organizations visit the campus on the allotted date(s) and conduct tests and/or interviews according to their recruitment process.</li>
-					<li>The company/organization is required to furnish the final list of selected students at the end of the assigned interview slot. The organizations are also requested to maintain a wait list of students in case of non-availability of some of the selected students.</li>
-					<li>The Placement Office also coordinates the signing of offer letters by students who have been selected to ensure that they reach the company/organization as early as possible.</li>
+				<img class="responsive-img" src="images/iiita/exchangeprograms.png" />
+				<p>The Institute has continued to maintain and enhance the academic excellence it has had since its inception that has enabled it to have collaborative academic exchanges with the following International / National Universities / Institutions of academic eminence. MoUs have already been signed with most of these institutions and with the rest they are in process.</p>
+				<br>
+				<ul class="col s10 m5 l5 offset-s1 offset-m1 offset-l1">
+					<li>Carnegie Mellon University, Pittsburgh</li>
+					<li>California University, Riverside, USA</li>
+					<li>State University of New York, Buffalo</li>
+					<li>Massachusetts Institute of Technology, USA</li>
+					<li>Gwangju Institute of Science &amp; Technology (GIST), Korea</li>
+					<li>Canberra University, Australia</li>
+					<li>EPFL Louisiana and ETZ Zurich, Switzerland</li>
+					<li>Aalborg University, Denmark</li>
+					<li>Russian New University (ROSNOU), Moscow, Russia</li>
+					<li>University of Michigan, USA</li>
+					<li>Caledonian College of Engineering, Muscat, Oman</li>
+					<li>IIT‐Kanpur, IIT‐Mumbai and IIT‐New Delhi</li>
+					<li>Information Security Research Consortium jointly signed by USA, China, Japan, Russia, Germany, Israel, India, ROSNOU‐Russia</li>
+					<li>University of Dundee, Nethergate, Scotland, UK</li>
+					<li>Moscow Institute of Physics and Technology (State University), Moscow, Russia</li>
+					<li>Center for Teleinfrastructure (CTIF), Aalborg University, Denmark</li>
+					<li>Asian Institute of Technology, Bangkok, Thailand</li>
+					<li>The Southern Taiwan University, Taiwan</li>
+					<li>The University of Lincoln, U.K.</li>
+					<li>Erasmus MC: University Medical Centre, Rotterdam, Netherland</li>
+					<li>The Erasmus University, Rotterdam, Netherland</li>
+					<li>University of Abertay Dundee, Scotland</li>
+					<li>The Queensland University of Technology, Brisbane, Australia</li>
+					<li>PuteraSampoerna Foundation (PSF), Jakarta</li>
+					<li>M.H Alsya Co. W.L.L., Kuwait</li>
+					<li>Ohio State University &amp; Cornell University</li>
+					<li>Biolink Institute, Link Campus University, Rome, Italy</li>
+					<li>Shenyang University, China</li>
+					<li>The Swiss Federal Institute of Technology, Lausanne, Switzerland</li>
+					<li>Allahabad High Court, Allahabad, India</li>
 				</ul>
 			</div>
 		</div>
 
-		<div class="row block" id="placement_facilities">
-			<div class="block-title col s12 valign-wrapper">
-				<span class="valign leftline"></span>
-				<p class="valign title">Placement Facilities</p>
-				<span class="valign rightline"></span>
-			</div>
+		<div class="row block" id="centers_of_excellence">
 			<div class="col s10 offset-s1 body">
-				<p>The institute has world class facilities to meet the needs of placement and its procedure. The placement process has always been congenial owing to the pre-requisites that are met by our institute which include:</p>
-				<ul>
-					<li>World class auditorium with a seating capacity of 800+.</li>
-					<li>Fully furnished AC rooms.</li>
-					<li>Conference rooms with audio visual setups.</li>
-					<li>Well-equipped Computer labs.</li>
+				<h5>Centers of Excellence</h5>
+				<ul class="col s10 m5 l5 offset-s1 offset-m1 offset-l1">
+					<li>Indo-Russian Centre of Biotechnology</li>
+					<li>Indo-US Centre of Language Technology</li>
+					<li>Indo – Danish Centre for Wireless Communication &amp; Sensors</li>
+					<li>Indo-Swiss Centre for Microelectronics</li>
+					<li>Patent Referral Centre</li>
+					<li>Plagiarism Detection Centre</li>
+					<li>S &amp; T Discovery Park for Rural Empowerment, Amethi</li>
+					<li>Centre for Physically Disabled Persons</li>
+					<li>I4CT, Denmark (Being established)</li>
 				</ul>
 			</div>
-		</div>
-		
-		<div class="row block" id="placement_policy">
-			<div class="block-title col s12 valign-wrapper">
-				<span class="valign leftline"></span>
-				<p class="valign title">Placement Policy</p>
-				<span class="valign rightline"></span>
-			</div>
-			<div class="col s10 offset-s1 body">
-				<div class="row block">
-					<h5>Classification of Company</h5>
-					<p>The classification of a company will based on the criteria of pay packages(CTC) and work profile. The two classes being:</p>
-					<ul>
-						<li>First Round Company</li>
-						<li>Dream Round Company</li>
-					</ul>
-				</div>
 
-				<div class="row block">
-					<h5>Job Offer for a student</h5>
-					<ul>
-						<li>If a student's name appears on the final shortlist declared after the Company's process through the Placement Cell, then that would be considered as a Job Offer to the student.</li>
-						<li>A student will be out of campus placement process only if he/she gets an offer from a Dream Round company.</li>
-						<li>Students getting a Job Offer from a First Round company are still eligible for further placements and only these students are allowed to upgrade to a Dream Round company.</li>
-						<li>PPO Offer and off-campus placements are also considered as Job Offer, hence the same policy is applicable to them.</li>
-					</ul>
-				</div>
-
-				<div class="row block">
-					<h5>Job Offer made by Company</h5>
-					<ul>
-						<li>The companies are requested to announce the result/ final shortlist on the day of campus visit.</li>
-						<li>The company should hand over the duly signed hard copy of the final selection list to the placement cell.</li>
-						<li>The company shall provide the offer letters to the Placement office and not directly to the students.</li>
-						<li>The purview of the Placement Cell is restricted only to the offers made as part of the campus placement process.</li>
-						<li>In case the company is unable to declare the result on the same day, then the student is allowed to participate in other companies until the result is declared. The final status will depend upon who declares the result first.</li>
-					</ul>
-				</div>
-			</div>
 		</div>
 
 		<footer class="page-footer">

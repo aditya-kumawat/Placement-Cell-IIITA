@@ -290,7 +290,7 @@ header a{
 }
 
 .home-slider ul.slides li div.caption h3{
-	color: #152E5D !important;
+	/*color: #152E5D !important;*/
 }
 
 .home-slider ul.indicators {
@@ -462,6 +462,24 @@ header a{
 	#campus_images img{
 		margin: 20px calc( 100% * 3/12 * 1/6);
 	}
+}
+
+/*Styles for demographics page*/
+.demographics div.body{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.demographics div.body div.svg-wrapper{
+
+}
+
+#ug_demographics svg legend,
+#pg_demographics svg legend{
+	text-indent: 4px;
+	
 }
 
 /*styles for the courses page*/

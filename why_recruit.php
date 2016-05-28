@@ -57,7 +57,10 @@
 											<i class="material-icons">fiber_manual_record</i><a href="courses.php">Courses</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Demographics</a>
+											<i class="material-icons">fiber_manual_record</i><a href="demographics.php">Demographics</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="academic_exchange_programs.php">Academic Exchange Programs</a>
 										</li>
 										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="research_and_development.php">Research &amp; Development</a>
@@ -104,7 +107,12 @@
 					</div>
 				</div>
 				<div class="" id="site-name"> 
-					<h5 class="center-align"><img src="images/iiita/iiitalogo.png" id="iiitalogo"/><a href="index.php">IIITA Placement Division</a></h5>
+					<h5 class="center-align">
+						<img src="images/iiita/iiitalogo.png" id="iiitalogo"/>
+						<a href="index.php">
+							IIITA Placement Division
+						</a>
+					</h5>
 				</div>
 				<!-- <div class="" id="account">
 					<a href="javascript:void(0)" class="waves-effect waves-dark">
@@ -118,7 +126,7 @@
 		 	<h2 class="white-text center-align">Why Recruit?</h2> 
 		</div>
 
-<!-- 		<div class="row chip-bar-container hide-on-small-only">
+		<div class="row chip-bar-container hide-on-small-only">
 			<div class="col s12 m10 offset-m1 chips-bar">
 				<div class="chip">
 					<a href="#">Recruiters</a>
@@ -127,7 +135,7 @@
 					<a href="achievements.php">Why Recruit?</a>
 				</div>
 			</div>
-		</div> -->
+		</div>
 		<div class="row" id="why_recurit">
 			<div class="col s10 offset-s1 body">
 				<div class="row block" id="">

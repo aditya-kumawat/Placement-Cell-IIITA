@@ -57,7 +57,10 @@
 											<i class="material-icons">fiber_manual_record</i><a href="courses.php">Courses</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Demographics</a>
+											<i class="material-icons">fiber_manual_record</i><a href="demographics.php">Demographics</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="academic_exchange_programs.php">Academic Exchange Programs</a>
 										</li>
 										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="research_and_development.php">Research &amp; Development</a>
@@ -122,7 +125,7 @@
 		<div class="slider home-slider">
 			<ul class="slides">
 				<li>
-					<img src="images/iiita/iiitacover2.jpg">
+					<img src="images/iiita/campus9.jpg">
 					<div class="caption center-align">
 						<h3 class="white-text">Welcome</h3>
 					</div>

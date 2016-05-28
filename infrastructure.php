@@ -57,7 +57,10 @@
 											<i class="material-icons">fiber_manual_record</i><a href="courses.php">Courses</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Demographics</a>
+											<i class="material-icons">fiber_manual_record</i><a href="demographics.php">Demographics</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="academic_exchange_programs.php">Academic Exchange Programs</a>
 										</li>
 										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="research_and_development.php">Research &amp; Development</a>
@@ -104,7 +107,12 @@
 					</div>
 				</div>
 				<div class="" id="site-name"> 
-					<h5 class="center-align"><img src="images/iiita/iiitalogo.png" id="iiitalogo"/><a href="index.php">IIITA Placement Division</a></h5>
+					<h5 class="center-align">
+						<img src="images/iiita/iiitalogo.png" id="iiitalogo"/>
+						<a href="index.php">
+							IIITA Placement Division
+						</a>
+					</h5>
 				</div>
 				<!-- <div class="" id="account">
 					<a href="javascript:void(0)" class="waves-effect waves-dark">
@@ -143,7 +151,7 @@
 				<p>
 					The campus is envisaged to be a fully residential one, with all its faculty, staff and students housed in different pockets. Every nook and cranny is connected to the IIITA network by high speed optic fibres and wireless LAN opening the highway to internet.The institute has a sprawling on 100 acres lush green lawns and expanse of rich flora and devise floriculture, the Campus includes Visitors Guest House, Faculty Guest House, VIP Guest House, 4 Boy's Hostels with capacity of 275 inmates each, 2 Girl's Hostels, 60 Residential Quarters of Type I, II, III &amp; IV, Married Scholar Apartments, Students Activity Centre, Health Centre, Squash Courts, Swimming pool, Tennis Courts, Badminton Courts, Pavilion &amp; Playgrounds.
 				</p>
-				<img src="images/iiita/2.jpg" alt="IIITA library" class="materialboxed right col m4 s10 offset-s1 responsive-img">
+				<img src="images/iiita/campus3.jpg" alt="IIITA library" class="materialboxed right col m4 s10 offset-s1 responsive-img">
 				<p>
 					The other important buildings that the institute has are three Computer Centres with several labs each, lecture halls, a newly built auditorium and state of the art electronic library.IIITA has a well-established network infrastructure both for the local (LAN) as well as access to the internet. The network spans through every building on the campus using optical cables where high quality equipments (including layer 3 managed switches) have been installed ensuring a high speed internet access during all hours of the day. The institute has excellent physical activity infrastructure for its residents to ensure that academic development is duly supplemented by sufficient physical development as well. A good football ground – complete, athletic track, flood lit basketball, tennis and squash courts, table tennis and many other indoor and outdoor activity places.
 				</p>
@@ -157,9 +165,14 @@
 				<span class="valign rightline"></span>
 			</div>
 			<div class="col s10 offset-s1 body">
-				<img src="images/iiita/5.jpg" alt="IIITA" class="materialboxed col m3 s10 offset-s1 responsive-img">
-				<img src="images/iiita/3.jpg" alt="IIITA campus" class="materialboxed col m3 s10 offset-s1 responsive-img">
-				<img src="images/iiita/1.jpg" alt="IIITA auditoriam" class="materialboxed col m3 s10 offset-s1 responsive-img">
+				<img src="images/iiita/campus5.jpg" alt="IIITA" class="materialboxed col m3 s10 offset-s1 responsive-img">
+				<img src="images/iiita/campus4.jpg" alt="IIITA campus" class="materialboxed col m3 s10 offset-s1 responsive-img">
+				<img src="images/iiita/campus7.jpg" alt="IIITA auditoriam" class="materialboxed col m3 s10 offset-s1 responsive-img">
+			</div>
+			<div class="col s10 offset-s1 body">
+				<img src="images/iiita/campus2.jpg" alt="IIITA" class="materialboxed col m3 s10 offset-s1 responsive-img">
+				<img src="images/iiita/campus6.jpg" alt="IIITA campus" class="materialboxed col m3 s10 offset-s1 responsive-img">
+				<img src="images/iiita/campus8.jpg" alt="IIITA auditoriam" class="materialboxed col m3 s10 offset-s1 responsive-img">
 			</div>
 		</div>
 
