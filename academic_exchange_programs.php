@@ -129,10 +129,10 @@
 		<div class="row chip-bar-container hide-on-small-only">
 			<div class="col s12 m10 offset-m1 chips-bar">
 				<div class="chip">
-					<a href="#">Academics</a>
+					<a href="#exchange_program_institutions">Exchange programs</a>
 				</div>
 				<div class="chip">
-					<a href="#">Exchange programs</a>
+					<a href="#centers_of_excellence">Centers of Excellence</a>
 				</div>
 			</div>
 		</div>
@@ -143,7 +143,7 @@
 				<img class="responsive-img" src="images/iiita/exchangeprograms.png" />
 				<p>The Institute has continued to maintain and enhance the academic excellence it has had since its inception that has enabled it to have collaborative academic exchanges with the following International / National Universities / Institutions of academic eminence. MoUs have already been signed with most of these institutions and with the rest they are in process.</p>
 				<br>
-				<ul class="col s10 m5 l5 offset-s1 offset-m1 offset-l1">
+				<ul class="col s12 m6 l6">
 					<li>Carnegie Mellon University, Pittsburgh</li>
 					<li>California University, Riverside, USA</li>
 					<li>State University of New York, Buffalo</li>
@@ -181,7 +181,7 @@
 		<div class="row block" id="centers_of_excellence">
 			<div class="col s10 offset-s1 body">
 				<h5>Centers of Excellence</h5>
-				<ul class="col s10 m5 l5 offset-s1 offset-m1 offset-l1">
+				<ul class="col s12 m6 l6">
 					<li>Indo-Russian Centre of Biotechnology</li>
 					<li>Indo-US Centre of Language Technology</li>
 					<li>Indo – Danish Centre for Wireless Communication &amp; Sensors</li>

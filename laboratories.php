@@ -185,14 +185,21 @@
 				<span class="valign rightline"></span>
 			</div>
 			<div class="col s10 offset-s1 body">
-				<img class="col s6 m4 l3 materialboxed responsive-img" data-caption="A picture of some deer and tons of trees" src="images/DSCF5576.jpg">
-				<img class="col s6 m4 l3 materialboxed responsive-img" data-caption="A picture of some deer and tons of trees" src="images/DSCF5576.jpg">
-				<img class="col s6 m4 l3 materialboxed responsive-img" data-caption="A picture of some deer and tons of trees" src="images/DSCF5576.jpg">
-				<img class="col s6 m4 l3 materialboxed responsive-img" data-caption="A picture of some deer and tons of trees" src="images/DSCF5576.jpg">
-				<img class="col s6 m4 l3 materialboxed responsive-img" data-caption="A picture of some deer and tons of trees" src="images/DSCF5576.jpg">
-				<img class="col s6 m4 l3 materialboxed responsive-img" data-caption="A picture of some deer and tons of trees" src="images/DSCF5576.jpg">
-				<img class="col s6 m4 l3 materialboxed responsive-img" data-caption="A picture of some deer and tons of trees" src="images/DSCF5576.jpg">
-				<img class="col s6 m4 l3 materialboxed responsive-img" data-caption="A picture of some deer and tons of trees" src="images/DSCF5576.jpg">
+				<div class="col s6 m4 l3 image_holder">
+					<img class="materialboxed" src="images/iiita/lab1.jpg">
+				</div>
+				<div class="col s6 m4 l3 image_holder">
+					<img class="materialboxed" src="images/iiita/lab2.jpg">
+				</div>
+				<div class="col s6 m4 l3 image_holder">
+					<img class="materialboxed" src="images/iiita/lab3.jpg">
+				</div>
+				<div class="col s6 m4 l3 image_holder">
+					<img class="materialboxed" src="images/iiita/lab4.jpg">
+				</div>
+				<div class="col s6 m4 l3 image_holder">
+					<img class="materialboxed" src="images/iiita/lab5.jpg">
+				</div>
 			</div>
 		</div>
 

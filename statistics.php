@@ -123,90 +123,58 @@
 		</div>
 
 		<div class="row page-title">
-		 	<h2 class="white-text center-align">Contacts</h2> 
+		 	<h2 class="white-text center-align">Statistics</h2> 
 		</div>
 
-		<div class="row chip-bar-container hide-on-small-only">
-			<div class="col s12 m10 offset-m1 chips-bar">
-				<div class="chip">
-					<a href="#contacts">Contacts</a>
-				</div>
-				<div class="chip">
-					<a href="#query">Query Form</a>
-				</div>
-			</div>
-		</div>
-
-		<div class="row block" id="contacts">	
-			<div class="block-title col s12 valign-wrapper">
-				<span class="valign leftline"></span>
-				<p class="valign title">Contacts</p>
-				<span class="valign rightline"></span>
-			</div>
-			<div class="col s12">
-				<div class="col s10 offset-s1 l3 card-panel contact-card">
-					<div class="col s4 m12 contact-image">
-						<img class="responsive-img circle" src="images/iiita/shirshuvermacontact.jpg"> 
-					</div>
-					<div class="col s8 m12 contact-details">
-						<p><big><b>Dr. Shirshu Verma</b></big></p>
-						<p>
-							Faculty Incharge, Training and Placements<br>tpo@iiita.ac.in, placements@iiita.ac.in<br>+91-9450965329
-						</p>
-					</div>
-				</div>
-				<div class="col s10 offset-s1 l3 card-panel contact-card">
-					<div class="col s4 m12 contact-image">
-						<img class="responsive-img circle" src="images/iiita/manavsharmacontact.jpg"> 
-					</div>
-					<div class="col s8 m12 contact-details">
-						<p><big><b>Manav Sharma</b></big></p>
-						<p>
-							Student Coordinator,Training and Placements<br>placements@iiita.ac.in<br>+91-9455999955
-						</p>
-					</div>
-				</div>
-				<div class="col s10 offset-s1 l3 card-panel contact-card">
-					<div class="col s4 m12 contact-image">
-						<img class="responsive-img circle" src="images/iiita/himanshuvimalcontact.jpg"> 
-					</div>
-					<div class="col s8 m12 contact-details">
-						<p><big><b>Himanshu Vimal</b></big></p>
-						<p>
-							Student Coordinator(PG)<br>placements@iiita.ac.in<br>+91-9450965329
-						</p>				
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<div class="row block" id="query">
-			<div class="block-title col s12 valign-wrapper">
-				<span class="valign leftline"></span>
-				<p class="valign title">Send us your query</p>
-				<span class="valign rightline"></span>
-			</div>
+		<div class="row block" id="course_overview">
 			<div class="col s10 offset-s1 body">
-				<form class="col s10 offset-s1 center" id="queryform" action="php/send_email.php" method="post">
-					<div class="input-field col s12">	
-						<i class="material-icons prefix">email</i>
-						<label for="email">Enter your email : </label>
-						<input type="email" id="email" name="email" required>
+				<div class="col s12 course-container course-body-closed">
+					<div class="course-head">
+						<p>Placement Statistics for 2015-2016</p>
+						<span class="toggle-course-body"></span>
 					</div>
-					<div class="input-field col s12">	
-						<i class="material-icons prefix">phone</i>
-						<label for="phoneno">Contact No. :  </label>
-						<input type="number" max="100000000000" min="0" id="phoneno" name="phoneno" required>
+					<div class="course-body">
+						<ul>
+							<li><b>100%</b> student placed.</li>
+							<li>Dream offers : <b>83.78%</b></li>
+							<li>Regular offers : <b>16.22%</b></li>
+							<li>Average Package: <b>11.2 lpa</b></li>
+							<li>Highest Package: <b>27 lpa</b></li>
+							<li>No. of Companies Visited: <b>103</b></li>
+						</ul>
 					</div>
-					<div class="input-field col s12">
-						<i class="material-icons prefix">question_answer</i>
-						<textarea name='message' id="message" class="materialize-textarea" rows="100"></textarea>
-						<label for="message">Your message : </label>
+				</div>
+				
+				<div class="col s12 course-container course-body-closed">
+					<div class="course-head">
+						<p>Placement Statistics for 2014-2015</p>
+						<span class="toggle-course-body"></span>
 					</div>
-					<button class="btn waves-effect waves-light center-align" type="submit" name="sendmessage">Send
-						<i class="material-icons right">send</i>
-					</button>
-				</form>
+					<div class="course-body">
+						<ul>
+							<li><b>100%</b> student placed.</li>
+							<li>Average Package: <b>8.2 lpa</b></li>
+							<li>Highest Package: <b>24 lpa</b></li>
+							<li>No. of Companies Visited: <b>96</b></li>
+						</ul>
+					</div>
+				</div>
+				
+				<div class="col s12 course-container course-body-closed">
+					<div class="course-head">
+						<p>Placement Statistics for 2013-2014</p>
+						<span class="toggle-course-body"></span>
+					</div>
+					<div class="course-body">
+						<ul>
+							<li><b>100%</b> student placed.</li>
+							<li>Dream offers : <b>76%</b></li>
+							<li>Regular offers : <b>24%</b></li>
+							<li>Average Package: <b>7.1 lpa</b></li>
+							<li>No. of Companies Visited: <b>90</b></li>
+						</ul>
+					</div>
+				</div>
 			</div>
 		</div>
 

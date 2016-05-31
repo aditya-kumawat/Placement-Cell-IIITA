@@ -167,16 +167,16 @@
 				<span class="valign rightline"></span>
 			</div>
 			<div class="col s10 offset-s1 body">
-				<img src="images/pic.jpg" class="col s5 m2 circle responsive-img">
-				<img src="images/pic.jpg" class="col s5 m2 circle responsive-img">
-				<img src="images/pic.jpg" class="col s5 m2 circle responsive-img">
-				<img src="images/pic.jpg" class="col s5 m2 circle responsive-img">
+				<img src="images/companies/google.png" class="col s5 m2">
+				<img src="images/companies/microsoft.png" class="col s5 m2">
+				<img src="images/companies/amazon.png" class="col s5 m2">
+				<img src="images/companies/practo.png" class="col s5 m2">
 			</div>
 			<div class="col s10 offset-s1 body hide-on-small-only">
-				<img src="images/pic.jpg" class="col s5 m2 circle responsive-img">
-				<img src="images/pic.jpg" class="col s5 m2 circle responsive-img">
-				<img src="images/pic.jpg" class="col s5 m2 circle responsive-img">
-				<img src="images/pic.jpg" class="col s5 m2 circle responsive-img">
+				<img src="images/companies/adobe.png" class="col s5 m2 circle">
+				<img src="images/companies/hike.png" class="col s5 m2">
+				<img src="images/companies/directi.png" class="col s5 m2 circle">
+				<img src="images/companies/walmart.jpeg" class="col s5 m2 circle">
 			</div>
 		</div>
 

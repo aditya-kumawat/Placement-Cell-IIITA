@@ -129,30 +129,128 @@
 		<div class="row chip-bar-container hide-on-small-only">
 			<div class="col s12 m10 offset-m1 chips-bar">
 				<div class="chip">
-					<a href="laboratories.php">Past Recruiters</a>
+					<a href="#past_recruiters">Past Recruiters</a>
 				</div>
 				<div class="chip">
-					<a href="laboratories.php">Job Internships</a>
+					<a href="#job_internships">Job Internships</a>
 				</div>
 			</div>
 		</div>
 
 		<div class="row block" id="past_recruiters">
-			<div class="col s10 offset-s1 body">			
-				<img src="images/pic.jpg" class="col s5 m2 circle responsive-img">
-				<img src="images/pic.jpg" class="col s5 m2 circle responsive-img">
-				<img src="images/pic.jpg" class="col s5 m2 circle responsive-img">
-				<img src="images/pic.jpg" class="col s5 m2 circle responsive-img">
-				<img src="images/pic.jpg" class="col s5 m2 circle responsive-img">
-				<img src="images/pic.jpg" class="col s5 m2 circle responsive-img">
-				<img src="images/pic.jpg" class="col s5 m2 circle responsive-img">
-				<img src="images/pic.jpg" class="col s5 m2 circle responsive-img">
+				<div class="col s10 offset-s1 body">			
+					<div class="col s10 offset-s1 body">
+					<img src="images/companies/google.png" class="col s5 m2">
+					<img src="images/companies/microsoft.png" class="col s5 m2">
+					<img src="images/companies/amazon.png" class="col s5 m2">
+					<img src="images/companies/practo.png" class="col s5 m2">
+				</div>
+				<div class="col s10 offset-s1 body hide-on-small-only">
+					<img src="images/companies/adobe.png" class="col s5 m2 circle">
+					<img src="images/companies/hike.png" class="col s5 m2">
+					<img src="images/companies/directi.png" class="col s5 m2 circle">
+					<img src="images/companies/walmart.jpeg" class="col s5 m2 circle">
+				</div>
+				<div class="col s12 offset-s1 body">
+					<ul class="col s12 m4 l4">
+						<li>Accenture</li>
+						<li>Accolite</li>
+						<li>American Express</li>
+						<li>Arista</li>
+						<li>Axtria</li>
+						<li>Barkley</li>
+						<li>Cisco Systems India Pvt. Ltd.</li>
+						<li>Citi Corp</li>
+						<li>Click Lab</li>
+						<li>Coupon Dunia</li>
+						<li>D.E.Shaw</li>
+						<li>Digital Green</li>
+						<li>EXL</li>
+						<li>Expedia</li>
+						<li>Flipkart</li>
+						<li>Freescale</li>
+						<li>Goldman Sachs</li>
+						<li>Grey Orange</li>
+						<li>Grofers</li>
+						<li>Hashedin</li>
+					</ul>
+					<ul class="col s10 m4 l4">
+						<li>Housing</li>
+						<li>HT Media</li>
+						<li>IBM</li>
+						<li>Icon Resources</li>
+						<li>Incture Technology</li>
+						<li>Infosys</li>
+						<li>Infurnia Furnishings Pvt. Ltd.</li>
+						<li>Inmobi</li>
+						<li>KPMG</li>
+						<li>Kritikal</li>
+						<li>Kronos</li>
+						<li>Kuliza</li>
+						<li>Linkedin</li>
+						<li>Mahindra Comviva</li>
+						<li>Morgan Stanley</li>
+						<li>Nagaro</li>
+						<li>Naukri.com</li>
+						<li>Niki.ai (Techbins)</li>
+						<li>OFSS</li>
+						<li>OkuTech</li>
+					</ul>
+					<ul class="col s10 m4 l4">
+						<li>Online Tyari</li>
+						<li>Pay U</li>
+						<li>Paytm</li>
+						<li>Polaris</li>
+						<li>Power2SME</li>
+						<li>Qualcom</li>
+						<li>RBS</li>
+						<li>Routofy</li>
+						<li>Samsung</li>
+						<li>SAP Labs</li>
+						<li>Sapient Nitro</li>
+						<li>Sigmoid</li>
+						<li>TCS</li>
+						<li>Tiny Owl</li>
+						<li>Urbanrestro</li>
+						<li>Verizon</li>
+						<li>Zopnow</li>
+						<li>ZS</li>
+					</ul>
+				</div>
 			</div>
 		</div>
-		<div class="row block">
+
+		<div class="row block" id="job_internships">
 			<div class="col s10 offset-s1 body">			
-				<h5>Job Internships</h5>
-				
+				<h5>Job Internships</h5>			
+				<div class="col s12 offset-s1 body">
+					<ul class="col s12 m4 l4">
+						<li>Amazon</li>
+						<li>DE shaw</li>
+						<li>Expedia</li>
+						<li>Times Now</li>
+						<li>RBS</li>
+						<li>Arista</li>
+						<li>LinkedIn</li>
+					</ul>
+					<ul class="col s10 m4 l4">
+						<li>Smart Prix</li>
+						<li>Finomena</li>
+						<li>AMERICAN EXPRESS</li>
+						<li>Commence Mint</li>
+						<li>MAQ?</li>
+						<li>Use Dipper</li>
+						<li>VizExperts</li>
+					</ul>
+					<ul class="col s10 m4 l4">
+						<li>Google</li>
+						<li>Unicommerce</li>
+						<li>Grofers</li>
+						<li>Incture</li>
+						<li>HIKE</li>
+						<li>Finomena Launchpad</li>
+					</ul>
+				</div>
 			</div>
 		</div>
 
@@ -185,7 +283,7 @@
 			</div>
    		</footer>
 
-		<!--Import jQuery before materialize.js-->
+		<!-- Import jQuery before materialize.js -->
 		<!-- <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script> -->
 		<script type="text/javascript" src="js/jquery-1.12.2.js"></script>
 		<script type="text/javascript" src="js/materialize.min.js"></script>

@@ -431,10 +431,31 @@ header a{
 #courses ul > li,
 #sponsored_projects ul > li,
 #placement_facilities ul > li,
-#placement_policy ul > li {
+#placement_policy ul > li,
+#exchange_program_institutions ul > li,
+#centers_of_excellence ul > li,
+#past_recruiters ul > li,
+#job_internships ul > li,
+#course_overview ul >li  {
 	margin-left: 30px;
 	margin-bottom: 5px;
 	list-style: circle;
+}
+
+#lab_gallery .image_holder {
+	height: 250px;
+	padding: 10px !important;
+	/*margin: 10px;*/
+}
+
+#lab_gallery .image_holder .material-placeholder	 {
+	height: 100%;
+	width: 100%;
+}
+
+#lab_gallery .image_holder .material-placeholder img {
+	height: 100%;
+	width: 100%;
 }
 
 #placement_procedure ul > li {
