@@ -196,7 +196,7 @@
 					<div class="input-field col s12">	
 						<i class="material-icons prefix">phone</i>
 						<label for="phoneno">Contact No. :  </label>
-						<input type="number" max="100000000000" min="0" id="phoneno" name="phoneno" required>
+						<input type="number" min="0" id="phoneno" name="phoneno" required>
 					</div>
 					<div class="input-field col s12">
 						<i class="material-icons prefix">question_answer</i>

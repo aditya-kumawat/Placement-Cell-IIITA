@@ -123,7 +123,7 @@
 		</div>
 
 		<div class="row display-pic">
-			<img src="images/iiita/campus9.jpg" class="col s12 dp">
+			<img src="images/iiita/campus11.jpg" class="col s12 dp">
 		</div>
 		
 		<div class="row chip-bar-container hide-on-small-only">
