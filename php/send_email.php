@@ -4,6 +4,6 @@
 	$message = $_POST['message'];
 	$subject = "Company Registration";
 	$msg = "Email : " . $message . "<br> Contact No. : " . $contact . "<br>	Message : " . $message;
-	mail('placement@iiita.ac.in', $subject, $msg);
+	mail('placements@iiita.ac.in', $subject, $msg);
 	header('Location: ../contact_us.php')
 ?>
