@@ -80,7 +80,7 @@
 											<i class="material-icons">fiber_manual_record</i><a href="why_recruit.php">Why Recruit?</a>
 										</li>
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="javascript:void(0)">Statistics</a>
+											<i class="material-icons">fiber_manual_record</i><a href="statistics.php">Statistics</a>
 										</li>
 										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="past_recruiters.php">Past Recruiters</a>
