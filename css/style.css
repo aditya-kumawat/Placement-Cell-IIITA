@@ -538,6 +538,14 @@ header a {
   list-style: decimal;
 }
 
+.display-pic {
+  height: 500px !important;
+}
+
+.display-pic img{
+  height: 100%;
+}
+
 .body h5 {
   color: cornflowerblue;
   font-family: LatoMedium;

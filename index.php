@@ -160,7 +160,7 @@
 			</div>
 		</div>
 
-		<div class="row block" id="past_recruiters">
+		<!-- <div class="row block" id="past_recruiters">
 			<div class="block-title col s12 valign-wrapper">
 				<span class="valign leftline"></span>
 				<p class="valign title">Past Recruiters</p>
@@ -178,7 +178,7 @@
 				<img src="images/companies/directi.png" class="col s5 m2 circle">
 				<img src="images/companies/walmart.jpeg" class="col s5 m2 circle">
 			</div>
-		</div>
+		</div> -->
 
 		<footer class="page-footer">
 			<div class="container">
@@ -189,7 +189,7 @@
 							Dr. Shirshu Varma<br>Faculty Incharge<br>Training &amp; Placements<br>+91-9450965329
 						</p>
 						<p class="grey-text text-lighten-4 col m6 s12">
-							Manav Sharma<br>Student Coordinator,Training and Placements<br>+91-9455999955
+							Manav Sharma<br>Student Coordinator,Training and Placements<br>+91-7081718135
 						</p>
 					</div>
 					<div class="col m4 offset-m2 s12">

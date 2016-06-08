@@ -151,15 +151,15 @@
 			</div>
 			<div class="col s10 offset-s1 body">
 				<p>Companies visit campus and select students as per their recruitment drive.</p>
-				<p>To a student finally selected by a company after all testing and interview rounds, the company may offer 2 types of jobs:</p>
+				<p>To a student finally selected by a company after all testing and interview rounds, the company may offer :</p>
 				<div class="row block">
-					<h5>Full time job offer without any 6 month intern</h5>
-					<p>The selected student will join company in June 2015 as full time employee. He/she will spend their 8th semester in college doing Major Project(which is the time for the 6 month internship).</p>
+					<h5>Full time job offer</h5>
+					<p>The selected student will join company in June 2017 as full time employee.</p>
 				</div>
-				<div class="row block">
+				<!-- <div class="row block">
 					<h5>Full time job offer with 6 month intern</h5>
 					<p>The selected student will join company in Jan 2015 and will work till June 2015 as an intern i.e he/she will spend their 8th semester working in the company as intern. After June 2015, they will automatically resume their work in the company as full time employes.</p>
-				</div>
+				</div> -->
 			</div>
 		</div>
 
@@ -171,14 +171,14 @@
 			</div>
 			<div class="col s10 offset-s1 body">
 				<ul>
-					<li>The Placement Office sends invitations to the companies/organizations along with relevant information.</li>
-					<li>Companies register and create account on the online placement portal: http://placement.iiita.ac.in/</li>
-					<li>A Company/Organization fills the Job Notification Form containing details of the job profile and the offer using their online account.</li>
-					<li>The relevant details from JNF are provided online to the students, along with any other information furnished by company/organization. Interested and eligible (as per the criteria specified by the organizations) students register to appear for the recruitment process of a company.</li>
-					<li>The verified resumes of all such students become available to the organization for downloading or viewing through their placement account.</li>
-					<li>Placement Office allots dates for recruitment procedure by. Organizations visit the campus on the allotted date(s) and conduct tests and/or interviews according to their recruitment process.</li>
-					<li>The company/organization is required to furnish the final list of selected students at the end of the assigned interview slot. The organizations are also requested to maintain a wait list of students in case of non-availability of some of the selected students.</li>
-					<li>The Placement Office also coordinates the signing of offer letters by students who have been selected to ensure that they reach the company/organization as early as possible.</li>
+					<li>The Training and Placement Office, IIITA sends invitations  alongwith Job Notification Form(JNF) to organizations to participate in the campus placements.</li>
+					<li>Organization fills in the JNF containing details of the job offer (pay package, place of posting, allowances and other bonuses). JNF can be sent by email to Training and Placement Office, IIITA (placements@iiita.ac.in).</li>
+					<li>The organization details alongwith job offer is made available to the students on a private group, requesting them to apply.</li>
+					<li>Training and Placement Office, IIITA allots date(s) to an organization for campus placements. The organization confirms the date(s) to Training and Placement Office, IIITA.</li>
+					<li>The list of the students who have applied is provided to the organization along with their Resumes.</li>
+					<li>Organizations come to campus on the allotted date(s) and conduct tests and/or interviews as per their recruitment process.</li>
+					<li>The organization is expected to furnish the list of selected candidates at the end of assigned interview slot, preferably on the day of campus visit.</li>
+					<li>Training and Placement Office, IIITA also coordinates the signing of offer letter by students who have been selected to ensure that they reach the organization/company asap.</li>
 				</ul>
 			</div>
 		</div>
@@ -248,7 +248,7 @@
 							Dr. Shirshu Varma<br>Faculty Incharge<br>Training &amp; Placements<br>+91-9450965329
 						</p>
 						<p class="grey-text text-lighten-4 col m6 s12">
-							Manav Sharma<br>Student Coordinator,Training and Placements<br>+91-9455999955
+							Manav Sharma<br>Student Coordinator,Training and Placements<br>+91-7081718135
 						</p>
 					</div>
 					<div class="col m4 offset-m2 s12">

@@ -205,7 +205,7 @@
 							Dr. Shirshu Varma<br>Faculty Incharge<br>Training &amp; Placements<br>+91-9450965329
 						</p>
 						<p class="grey-text text-lighten-4 col m6 s12">
-							Manav Sharma<br>Student Coordinator,Training and Placements<br>+91-9455999955
+							Manav Sharma<br>Student Coordinator,Training and Placements<br>+91-7081718135
 						</p>
 					</div>
 					<div class="col m4 offset-m2 s12">

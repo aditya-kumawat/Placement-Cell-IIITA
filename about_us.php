@@ -123,7 +123,7 @@
 		</div>
 
 		<div class="row display-pic">
-			<img src="images/iiita/campus11.jpg" class="col s12 dp">
+			<img src="images/iiita/campus10.jpg" class="col s12 dp">
 		</div>
 		
 		<div class="row chip-bar-container hide-on-small-only">
@@ -171,7 +171,7 @@
 							Dr. Shirshu Varma<br>Faculty Incharge<br>Training &amp; Placements<br>+91-9450965329
 						</p>
 						<p class="grey-text text-lighten-4 col m6 s12">
-							Manav Sharma<br>Student Coordinator,Training and Placements<br>+91-9455999955
+							Manav Sharma<br>Student Coordinator,Training and Placements<br>+91-7081718135
 						</p>
 					</div>
 					<div class="col m4 offset-m2 s12">
