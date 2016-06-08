@@ -218,9 +218,9 @@
 					<div class="col m4 offset-m2 s12">
 						<h5 class="white-text ">Links</h5>
 						<ul>
-						  <li><a class="grey-text text-lighten-3" href="procedures_and_policies.php">Placement procedure</a></li>
-						  <li><a class="grey-text text-lighten-3" href="IIIT-A Placement Brochure 2015-16.pdf">Official Brochure</a></li>
-						  <li><a class="grey-text text-lighten-3" href="past_recruiters.php">Past Recruiters</a></li>
+						  <li><a class="grey-text text-lighten-3" href="procedures_and_policies.html">Placement procedure</a></li>
+						  <li><a class="grey-text text-lighten-3" href="IIIT-A Placement Brochure.pdf">Official Brochure</a></li>
+						  <li><a class="grey-text text-lighten-3" href="past_recruiters.html">Past Recruiters</a></li>
 						</ul>
 					</div>
 				</div>
@@ -231,7 +231,6 @@
 				</div>
 			</div>
    		</footer>
-
 		<!--Import jQuery before materialize.js-->
 		<!-- <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script> -->
 		<script type="text/javascript" src="js/jquery-1.12.2.js"></script>
