@@ -167,14 +167,9 @@
 				</div>
 				<div class="content">
 					<ul>
-						<li>Bioinformatics - 6</li>
-						<li>Cyber Law and Information Security - 11</li>
-						<li>Software Engineering - 10</li>
-						<li>Intelligent System - 9</li>
-						<li>Robotics - 7</li>
-						<li>Human-Computer Interaction - 8</li>
-						<li>Wireless Communication Engineering - 12</li>
-						<li>Microelectronics - 10</li>
+						<li>Mtech - 73</li>
+						<li>5 Year Integrated BME - 35</li>
+						<li>MBA - 8</li>
 					</ul>
 				</div>
 			</div>

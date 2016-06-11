@@ -31,14 +31,9 @@ $(document).ready(function() {
 				];
 
 				var pgDataset = [
-					{label: "CLIS", count : 11},
-					{label: "SE", count : 10},
-					{label: "Bioinformatics", count : 6},
-					{label: "IS", count : 9},
-					{label: "Robotics", count : 7},
-					{label: "HCI", count : 8},
-					{label: "WCC", count : 12},
-					{label: "Microelectronics", count : 10}
+					{label: "MTech", count : 73},
+					{label: "Integrated BME", count : 35},
+					{label: "MBA", count : 8}
 				];
 				demographicsInit(ugDataset, "#ug_demographics .svg-wrapper");
 				demographicsInit(pgDataset, "#pg_demographics .svg-wrapper");
