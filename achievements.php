@@ -51,13 +51,13 @@
 									</div>
 									<ul class="submenu-body">
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="achievements.php">Achievements</a>
-										</li>
-										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="courses.php">Courses</a>
 										</li>
 										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="demographics.php">Demographics</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="achievements.php">Achievements</a>
 										</li>
 										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="academic_exchange_programs.php">Academic Exchange Programs</a>
@@ -92,14 +92,14 @@
 								</li>
 								<li class="as menu-list-items">
 									<div class="submenu-head waves-effect waves-dark">
-										<i class="material-icons">place</i>
-										<a href="reach_us.php">Reach Us</a>
+										<i class="material-icons">contact_phone</i>
+										<a href="contact_us.php">Contact Us</a>
 									</div>
 								</li>
 								<li class="as menu-list-items">
 									<div class="submenu-head waves-effect waves-dark">
-										<i class="material-icons">contact_phone</i>
-										<a href="contact_us.php">Contact Us</a>
+										<i class="material-icons">place</i>
+										<a href="reach_us.php">Reach Us</a>
 									</div>
 								</li>
 							</ul>
@@ -120,7 +120,7 @@
 					</a> 
 				</div> -->
 			</header>
-		</div>	
+		</div>
 			
 		<div class="row page-title">
 		 	<h2 class="white-text center-align">Achievements</h2> 
@@ -145,18 +145,19 @@
 			</div>
 			<div class="col s10 offset-s1 body">
 				<ul>
-					<li>IIIT-A finished first among Indian Universities in ACM ICPC World Finals,2016.</li>
+					<li>IIIT-A finished <b>FIRST</b> among Indian Universities in ACM ICPC World Finals,2016.</li>
+					<li>IIIT-A secured <b>FIRST</b> position at ACM ICPC Online Round, 2015.</li>
+					<li>The Codebreakers team secured <b>8th</b> rank at ACM ICPC Onsite Regionals ,Kanpur conducted by IIT Kanpur.</li>
 					<li>IIIT-A is among the very few Indian Colleges to send team to ACM ICPC world finals multiple times.</li>
-					<li>First Prize TNSD segment in Eureka 2015 Asia Largest Business Model Competition organised by IIT Bombay.</li>
-					<li>First ever Gold Level Opera Campus Crew Member from India (one of the six throughout the World) and presently holds the exclusive position of Opera Campus Crew Coordinator for India at Opera Software.</li>
-					<li>The Codebreakers team secured 8th rank at ACM ICPC Onsite Regionals ,Kanpur conducted by IIT Kanpur.</li>
-					<li>CodeChef's Feb Challenge Topper(2010)</li>
-					<li>Among top 100 coders in Spoj(as of March 2010), ranked 7th among Java coders in India by TopCoder (as of srm 464).</li>
-					<li>A student was the second Indian to be awarded TopCoder's coder of the month title (coder of the month of August,2009).</li>
-					<li>Seven students are awarded the DAAD Scholarship for the summer of 2010.</li>
+					<li><b>First</b> Prize TNSD segment in Eureka 2015 Asia Largest Business Model Competition organised by IIT Bombay.</li>
+					<li><b>First</b> ever Gold Level Opera Campus Crew Member from India (one of the six throughout the World) and presently holds the exclusive position of Opera Campus Crew Coordinator for India at Opera Software.</li>
+					<li>Award of the "<b>Best Student Branch</b>" awarded to IIIT Allahabad for the year 2014 by IEEE-UP Section</li>
+					<li>IIIT-A ranked <b>19th</b> in 2016 India Today Survey.</li>
+					<li>IIIT-Allahabad is <b>FIRST</b> on SPOJ in list of colleges all over the world.</li>
+					<li>A student was the <b>SECOND</b> Indian to be awarded TopCoder's coder of the month title (coder of the month of August,2009).</li>
+					<li><b>Seven</b> students are awarded the DAAD Scholarship for the summer of 2010.</li>
 					<li>A team from IIITA won BIZCOMP 2009 organised by SJCE college of Mysore, Step incubation centre and DST (GOI).</li>
-					<li>A team from IIIT-A represented India in the World Finals of the 30th ACM.</li>
-					<li>International Collegiate Programming Contest. ACM ICPC is the largest programming contest organized every year by IBM in association with ACM to recognize and award the best of programming talents in the World.</li>
+					<li>Every year, plenty of students are selected for GSOC.</li>
 				</ul>
 			</div>
 		</div>
@@ -201,7 +202,7 @@
 					<div class="col m6 s12">
 						<h5 class="white-text">Contacts</h5>
 						<p class="grey-text text-lighten-4 col m6 s12">
-							Dr. Shirshu Varma<br>Faculty Incharge<br>Training &amp; Placements<br>+91-9450965329
+							Dr. Shirshu Varma<br>Faculty Incharge<br>Training &amp; Placements<br>+91-9450965329<br>placements@iiita.ac.in
 						</p>
 						<p class="grey-text text-lighten-4 col m6 s12">
 							Manav Sharma<br>Student Coordinator,Training and Placements<br>+91-7081718135
@@ -219,7 +220,11 @@
 			</div>
 			<div class="footer-copyright">
 				<div class="container center">
-					Copyright © 2016 Indian Institute Of Information Technology, Allahabad (Managed By GeekHaven-IIITA)
+					Copyright © 2016 
+						<a href="http://www.iiita.ac.in" alt="Link to the IIITA website">
+							Indian Institute Of Information Technology, Allahabad
+						</a>
+					(Managed By GeekHaven-IIITA)
 				</div>
 			</div>
    		</footer>

@@ -51,13 +51,13 @@
 									</div>
 									<ul class="submenu-body">
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="achievements.php">Achievements</a>
-										</li>
-										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="courses.php">Courses</a>
 										</li>
 										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="demographics.php">Demographics</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="achievements.php">Achievements</a>
 										</li>
 										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="academic_exchange_programs.php">Academic Exchange Programs</a>
@@ -92,14 +92,14 @@
 								</li>
 								<li class="as menu-list-items">
 									<div class="submenu-head waves-effect waves-dark">
-										<i class="material-icons">place</i>
-										<a href="reach_us.php">Reach Us</a>
+										<i class="material-icons">contact_phone</i>
+										<a href="contact_us.php">Contact Us</a>
 									</div>
 								</li>
 								<li class="as menu-list-items">
 									<div class="submenu-head waves-effect waves-dark">
-										<i class="material-icons">contact_phone</i>
-										<a href="contact_us.php">Contact Us</a>
+										<i class="material-icons">place</i>
+										<a href="reach_us.php">Reach Us</a>
 									</div>
 								</li>
 							</ul>
@@ -163,7 +163,7 @@
 						<li>Human Computer Interaction (HC)</li>
 						<li>Microelectronics(ME)</li>
 						<li>Bioinformatics (BI) </li>
-						<li>Integrated M. Tech in Biomedical Engineering. (BM)</li>
+						<li>Integrated M. Tech in Biomedical Engineering. (BME)</li>
 					</ul>
 					IIIT Allahabad provides excellence of specialization in the field of information technology in India. The objective of M.Tech is to prepare quality professionals to work at high-end technologies in IT and to deliver future project leaders and architects, who can meet the challenges, make better use of technologies and understand the need of modern IT services. Here students are trained to work in a team, lead it, allowing exposure to the practicability and difficulties involved in the projects of varying complexities to make sure that the students have the capability to turn the dreams of business leaders and visionaries into realities.The curriculum is deigned in such a manner that student get the excellent knowledge of the specialized field. 'Thesis work' which provides an opportunity to students to create and develop new concept, techniques, methods and applications in the real world.
 				</p>
@@ -528,7 +528,7 @@
 					<div class="col m6 s12">
 						<h5 class="white-text">Contacts</h5>
 						<p class="grey-text text-lighten-4 col m6 s12">
-							Dr. Shirshu Varma<br>Faculty Incharge<br>Training &amp; Placements<br>+91-9450965329
+							Dr. Shirshu Varma<br>Faculty Incharge<br>Training &amp; Placements<br>+91-9450965329<br>placements@iiita.ac.in
 						</p>
 						<p class="grey-text text-lighten-4 col m6 s12">
 							Manav Sharma<br>Student Coordinator,Training and Placements<br>+91-7081718135
@@ -546,7 +546,11 @@
 			</div>
 			<div class="footer-copyright">
 				<div class="container center">
-					Copyright © 2016 Indian Institute Of Information Technology, Allahabad (Managed By GeekHaven-IIITA)
+					Copyright © 2016 
+						<a href="http://www.iiita.ac.in" alt="Link to the IIITA website">
+							Indian Institute Of Information Technology, Allahabad
+						</a>
+					(Managed By GeekHaven-IIITA)
 				</div>
 			</div>
    		</footer>

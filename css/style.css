@@ -517,7 +517,7 @@ header a {
 }
 
 #lab_gallery .image_holder {
-  height: 250px;
+  height: 200px;
   padding: 10px !important;
   /*margin: 10px;*/
 }
@@ -848,4 +848,10 @@ footer.page-footer .footer-copyright {
   line-height: initial !important;
   padding-top: 2px !important;
   padding-bottom: 2px !important;
+}
+
+.footer-copyright a{
+  color: rgba(255,255,255,0.8);
+  text-decoration: underline;
+
 }

@@ -51,13 +51,13 @@
 									</div>
 									<ul class="submenu-body">
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="achievements.php">Achievements</a>
-										</li>
-										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="courses.php">Courses</a>
 										</li>
 										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="demographics.php">Demographics</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="achievements.php">Achievements</a>
 										</li>
 										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="academic_exchange_programs.php">Academic Exchange Programs</a>
@@ -92,14 +92,14 @@
 								</li>
 								<li class="as menu-list-items">
 									<div class="submenu-head waves-effect waves-dark">
-										<i class="material-icons">place</i>
-										<a href="reach_us.php">Reach Us</a>
+										<i class="material-icons">contact_phone</i>
+										<a href="contact_us.php">Contact Us</a>
 									</div>
 								</li>
 								<li class="as menu-list-items">
 									<div class="submenu-head waves-effect waves-dark">
-										<i class="material-icons">contact_phone</i>
-										<a href="contact_us.php">Contact Us</a>
+										<i class="material-icons">place</i>
+										<a href="reach_us.php">Reach Us</a>
 									</div>
 								</li>
 							</ul>
@@ -151,7 +151,13 @@
 				<img src="images/iiita/shirshuverma.jpg" class="col s8 m3 l3 responsive-img" id="pic">
 				<p id="message">
 					<i class="material-icons" style="transform:rotateY(180deg)">format_quote</i>
-					IIIT Allahabad has successfully established itself as a premier technological institute in a relatively short span of 15 years since its inception in 1999. Our students have been continuously proving their mettle in terms of their grasp of core competencies, their potential to innovate, their arduous nature and well-rounded personalities. The alumni of our institute are doing excellent work and proving to be an asset for their organization.We therefore receive a very positive industry response from our recruiters every year and their feedback about our students has always been very encouraging. The institute offers campus placement for students graduating with Bachelor of Technology and Master of Technology. Our institute has excellent facilities and provides all necessary help for our campus recruiters to conduct a successful placement session. We take this opportunity to invite your esteemed organization to visit our campus for recruitment. It will be a privilege for us to welcome you at IIIT Allahabad.
+					The Indian Institute of Information Technology Allahabad (IIIT-A) was established in 1999, as a center of excellence in Information Technology and allied areas. It has lived up to the increasing demands of the technical society in terms of quality engineers and developers.   
+					<br>
+					We have been constantly working since the establishment of the institute towards strengthening the indigenous capability necessary for profitably exploiting and harnessing multi-dimensional facets of IT at all levels. For all round development of students, we have a modular course design along with several opportunities for industry training which gives students the freedom to tailor their learning experience. Due to the development the institute has shown within 15 years of establishment and the quality engineers that the institution contributes to the society, we have been able to emerge as a successful institution.
+					<br>
+					Like every year we expect a large participation from various organizations and are committed to provide them with the best facilities. 
+					<br>
+					We feel privileged to invite your esteemed organization to the plethora of expertise in the field of Information Technology and allied areas, as an on-campus recruiter for the 2016-17 placement session. 
 					<i class="material-icons">format_quote</i>
 				</p>
 				<div class="right">
@@ -186,7 +192,7 @@
 					<div class="col m6 s12">
 						<h5 class="white-text">Contacts</h5>
 						<p class="grey-text text-lighten-4 col m6 s12">
-							Dr. Shirshu Varma<br>Faculty Incharge<br>Training &amp; Placements<br>+91-9450965329
+							Dr. Shirshu Varma<br>Faculty Incharge<br>Training &amp; Placements<br>+91-9450965329<br>placements@iiita.ac.in
 						</p>
 						<p class="grey-text text-lighten-4 col m6 s12">
 							Manav Sharma<br>Student Coordinator,Training and Placements<br>+91-7081718135
@@ -204,7 +210,11 @@
 			</div>
 			<div class="footer-copyright">
 				<div class="container center">
-					Copyright © 2016 Indian Institute Of Information Technology, Allahabad (Managed By GeekHaven-IIITA)
+					Copyright © 2016 
+						<a href="http://www.iiita.ac.in" alt="Link to the IIITA website">
+							Indian Institute Of Information Technology, Allahabad
+						</a>
+					(Managed By GeekHaven-IIITA)
 				</div>
 			</div>
    		</footer>

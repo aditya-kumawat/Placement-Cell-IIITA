@@ -51,6 +51,109 @@
 									</div>
 									<ul class="submenu-body">
 										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="courses.php">Courses</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="demographics.php">Demographics</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="achievements.php">Achievements</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="academic_exchange_programs.php">Academic Exchange Programs</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="research_and_development.php">Research &amp; Development</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="student_life.php">Student Life</a>
+										</li>
+									</ul>
+								</li>
+								<li class="menu-list-items">
+									<div class="submenu-head waves-effect waves-dark">
+										<i class="material-icons">supervisor_account</i>
+										<a href="javascript:void(0)">Recruiters</a>
+									</div>
+									<ul class="submenu-body">
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="why_recruit.php">Why Recruit?</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="statistics.php">Statistics</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="past_recruiters.php">Past Recruiters</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="procedures_and_policies.php">Procedure and Policies</a>
+										</li>
+									</ul>
+								</li>
+								<li class="as menu-list-items">
+									<div class="submenu-head waves-effect waves-dark">
+										<i class="material-icons">contact_phone</i>
+										<a href="contact_us.php">Contact Us</a>
+									</div>
+								</li>
+								<li class="as menu-list-items">
+									<div class="submenu-head waves-effect waves-dark">
+										<i class="material-icons">place</i>
+										<a href="reach_us.php">Reach Us</a>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="" id="site-name"> 
+					<h5 class="center-align">
+						<img src="images/iiita/iiitalogo.png" id="iiitalogo"/>
+						<a href="index.php">
+							IIITA Placement Division
+						</a>
+					</h5>
+				</div>
+				<!-- <div class="" id="account">
+					<a href="javascript:void(0)" class="waves-effect waves-dark">
+						<i class="material-icons small">account_circle</i>
+					</a> 
+				</div> -->
+			</header>
+		</div><div class="row" id="header-wrapper">
+			<header class="col s12">
+				<div class="" id="nav-menu">
+					<a href="javascript:void(0)" class="menu-trigger waves-effect waves-dark">
+						<i class="material-icons small">menu</i>
+					</a>
+					<!-- Sidebar menu goes here -->
+					<div class="menu-wrapper white">
+						<div class="scroller">
+							<ul class="menu"> 
+								<li class="menu-list-items">
+									<div class="submenu-head waves-effect waves-dark">
+										<i class="material-icons">business</i>
+										<a href="javascript:void(0)">About IIITA</a>
+									</div>
+									<ul class="submenu-body" id="asd">
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="about_us.php">About College</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="infrastructure.php">Infrastructure</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="laboratories.php">Laboratories</a>
+										</li>
+									</ul>
+								</li>
+								<li class="menu-list-items">
+									<div class="submenu-head waves-effect waves-dark">
+										<i class="material-icons">school</i>
+										<a href="javascript:void(0)">Academics</a>
+									</div>
+									<ul class="submenu-body">
+										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="achievements.php">Achievements</a>
 										</li>
 										<li class="waves-effect waves-dark">
@@ -184,7 +287,7 @@
 					<div class="col m6 s12">
 						<h5 class="white-text">Contacts</h5>
 						<p class="grey-text text-lighten-4 col m6 s12">
-							Dr. Shirshu Varma<br>Faculty Incharge<br>Training &amp; Placements<br>+91-9450965329
+							Dr. Shirshu Varma<br>Faculty Incharge<br>Training &amp; Placements<br>+91-9450965329<br>placements@iiita.ac.in
 						</p>
 						<p class="grey-text text-lighten-4 col m6 s12">
 							Manav Sharma<br>Student Coordinator,Training and Placements<br>+91-7081718135
@@ -202,7 +305,11 @@
 			</div>
 			<div class="footer-copyright">
 				<div class="container center">
-					Copyright © 2016 Indian Institute Of Information Technology, Allahabad (Managed By GeekHaven-IIITA)
+					Copyright © 2016 
+						<a href="http://www.iiita.ac.in" alt="Link to the IIITA website">
+							Indian Institute Of Information Technology, Allahabad
+						</a>
+					(Managed By GeekHaven-IIITA)
 				</div>
 			</div>
    		</footer>

@@ -51,13 +51,13 @@
 									</div>
 									<ul class="submenu-body">
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="achievements.php">Achievements</a>
-										</li>
-										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="courses.php">Courses</a>
 										</li>
 										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="demographics.php">Demographics</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="achievements.php">Achievements</a>
 										</li>
 										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="academic_exchange_programs.php">Academic Exchange Programs</a>
@@ -92,14 +92,14 @@
 								</li>
 								<li class="as menu-list-items">
 									<div class="submenu-head waves-effect waves-dark">
-										<i class="material-icons">place</i>
-										<a href="reach_us.php">Reach Us</a>
+										<i class="material-icons">contact_phone</i>
+										<a href="contact_us.php">Contact Us</a>
 									</div>
 								</li>
 								<li class="as menu-list-items">
 									<div class="submenu-head waves-effect waves-dark">
-										<i class="material-icons">contact_phone</i>
-										<a href="contact_us.php">Contact Us</a>
+										<i class="material-icons">place</i>
+										<a href="reach_us.php">Reach Us</a>
 									</div>
 								</li>
 							</ul>
@@ -182,7 +182,7 @@
 					<div class="col m6 s12">
 						<h5 class="white-text">Contacts</h5>
 						<p class="grey-text text-lighten-4 col m6 s12">
-							Dr. Shirshu Varma<br>Faculty Incharge<br>Training &amp; Placements<br>+91-9450965329
+							Dr. Shirshu Varma<br>Faculty Incharge<br>Training &amp; Placements<br>+91-9450965329<br>placements@iiita.ac.in
 						</p>
 						<p class="grey-text text-lighten-4 col m6 s12">
 							Manav Sharma<br>Student Coordinator,Training and Placements<br>+91-7081718135
@@ -200,7 +200,11 @@
 			</div>
 			<div class="footer-copyright">
 				<div class="container center">
-					Copyright © 2016 Indian Institute Of Information Technology, Allahabad (Managed By GeekHaven-IIITA)
+					Copyright © 2016 
+						<a href="http://www.iiita.ac.in" alt="Link to the IIITA website">
+							Indian Institute Of Information Technology, Allahabad
+						</a>
+					(Managed By GeekHaven-IIITA)
 				</div>
 			</div>
    		</footer>

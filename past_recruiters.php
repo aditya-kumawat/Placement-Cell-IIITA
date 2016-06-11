@@ -51,13 +51,13 @@
 									</div>
 									<ul class="submenu-body">
 										<li class="waves-effect waves-dark">
-											<i class="material-icons">fiber_manual_record</i><a href="achievements.php">Achievements</a>
-										</li>
-										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="courses.php">Courses</a>
 										</li>
 										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="demographics.php">Demographics</a>
+										</li>
+										<li class="waves-effect waves-dark">
+											<i class="material-icons">fiber_manual_record</i><a href="achievements.php">Achievements</a>
 										</li>
 										<li class="waves-effect waves-dark">
 											<i class="material-icons">fiber_manual_record</i><a href="academic_exchange_programs.php">Academic Exchange Programs</a>
@@ -92,14 +92,14 @@
 								</li>
 								<li class="as menu-list-items">
 									<div class="submenu-head waves-effect waves-dark">
-										<i class="material-icons">place</i>
-										<a href="reach_us.php">Reach Us</a>
+										<i class="material-icons">contact_phone</i>
+										<a href="contact_us.php">Contact Us</a>
 									</div>
 								</li>
 								<li class="as menu-list-items">
 									<div class="submenu-head waves-effect waves-dark">
-										<i class="material-icons">contact_phone</i>
-										<a href="contact_us.php">Contact Us</a>
+										<i class="material-icons">place</i>
+										<a href="reach_us.php">Reach Us</a>
 									</div>
 								</li>
 							</ul>
@@ -138,79 +138,167 @@
 		</div>
 
 		<div class="row block" id="past_recruiters">
-			<div class="col s12 offset-s1 body">
-				<ul class="col s12 m4 l4">
-					<li>Google</li>
-					<li>Microsoft</li>
-					<li>Amazon</li>
-					<li>Accenture</li>
-					<li>Accolite</li>
-					<li>American Express</li>
-					<li>Arista</li>
-					<li>Axtria</li>
-					<li>Barkley</li>
-					<li>Cisco Systems India Pvt. Ltd.</li>
-					<li>Citi Corp</li>
-					<li>Click Lab</li>
-					<li>Coupon Dunia</li>
-					<li>D.E.Shaw</li>
-					<li>Digital Green</li>
-					<li>EXL</li>
-					<li>Expedia</li>
-					<li>Flipkart</li>
-					<li>Freescale</li>
-					<li>Goldman Sachs</li>
-					<li>Grey Orange</li>
-					<li>Grofers</li>
-					<li>Hashedin</li>
-				</ul>
-				<ul class="col s10 m4 l4">
-					<li>Practo</li>
-					<li>Adobe</li>
-					<li>Hike</li>
-					<li>Housing</li>
-					<li>HT Media</li>
-					<li>IBM</li>
-					<li>Icon Resources</li>
-					<li>Incture Technology</li>
-					<li>Infosys</li>
-					<li>Infurnia Furnishings Pvt. Ltd.</li>
-					<li>Inmobi</li>
-					<li>KPMG</li>
-					<li>Kritikal</li>
-					<li>Kronos</li>
-					<li>Kuliza</li>
-					<li>Linkedin</li>
-					<li>Mahindra Comviva</li>
-					<li>Morgan Stanley</li>
-					<li>Nagaro</li>
-					<li>Naukri.com</li>
-					<li>Niki.ai (Techbins)</li>
-					<li>OFSS</li>
-					<li>OkuTech</li>
-				</ul>
-				<ul class="col s10 m4 l4">
-					<li>Directi</li>
-					<li>Walmart</li>
-					<li>Online Tyari</li>
-					<li>Pay U</li>
-					<li>Paytm</li>
-					<li>Polaris</li>
-					<li>Power2SME</li>
-					<li>Qualcom</li>
-					<li>RBS</li>
-					<li>Routofy</li>
-					<li>Samsung</li>
-					<li>SAP Labs</li>
-					<li>Sapient Nitro</li>
-					<li>Sigmoid</li>
-					<li>TCS</li>
-					<li>Tiny Owl</li>
-					<li>Urbanrestro</li>
-					<li>Verizon</li>
-					<li>Zopnow</li>
-					<li>ZS</li>
-				</ul>
+			<div class="col s10 offset-s1 body">			
+				<!-- <div class="col s10 offset-s1 body">
+					<img src="images/companies/google.png" class="col s5 m2">
+					<img src="images/companies/microsoft.png" class="col s5 m2">
+					<img src="images/companies/amazon.png" class="col s5 m2">
+					<img src="images/companies/practo.png" class="col s5 m2">
+				</div>
+				<div class="col s10 offset-s1 body hide-on-small-only">
+					<img src="images/companies/adobe.png" class="col s5 m2 circle">
+					<img src="images/companies/hike.png" class="col s5 m2">
+					<img src="images/companies/directi.png" class="col s5 m2 circle">
+					<img src="images/companies/walmart.jpeg" class="col s5 m2 circle">
+				</div> -->
+				<div class="col s12 offset-s1 body">
+					<ul class="col s12 m4 l4">
+						<li>AakashAccenture</li>
+						<li>Accolite</li>
+						<li>Adobe</li>
+						<li>AirTight</li>
+						<li>Amazon</li>
+						<li>AMD</li>
+						<li>Amdocs</li>
+						<li>American Express</li>
+						<li>Apigee</li>
+						<li>Aptech</li>
+						<li>Aquamarine</li>
+						<li>ArachnoMesh</li>
+						<li>Arista Networks</li>
+						<li>Avanti</li>
+						<li>Axtria</li>
+						<li>Barkley</li>
+						<li>BDL</li>
+						<li>Belzabar</li>
+						<li>Bharat </li>
+						<li>Bhasha</li>
+						<li>Bidgely</li>
+						<li>BlackRock</li>
+						<li>BlueJeans</li>
+						<li>BTU</li>
+						<li>Capgemini</li>
+						<li>Cisco Systems India </li>
+						<li>Citi Corp</li>
+						<li>Click Lab</li>
+						<li>CMU</li>
+						<li>Corlax</li>
+						<li>Coupon Dunia</li>
+						<li>Curofy</li>
+						<li>CXC</li>
+						<li>Codenation</li>
+						<li>D.E.Shaw</li>
+						<li>DevFactory</li>
+						<li>Digital Green</li>
+						<li>Direct-i</li>
+						<li>DRDL</li>
+						<li>EXL</li>
+						<li>Expedia</li>
+						<li>FactSet</li>
+						<li>Flaberry</li>
+						<li>Flipkart</li>
+						<li>Fractcal</li>
+						<li>Freescale</li>
+						<li>Frrole</li>
+					</ul>
+					<ul class="col s10 m4 l4">
+						<li>Futures First</li>
+						<li>Geek Shastra</li>
+						<li>Germin8</li>
+						<li>Google</li>
+						<li>Goldman Sachs</li>
+						<li>Grey Orange</li>
+						<li>Grofers</li>
+						<li>HashCube</li>
+						<li>Hashedin</li>
+						<li>HCL-CDC</li>
+						<li>HealthKart</li>
+						<li>HeroMoto</li>
+						<li>Hike</li>
+						<li>Holidify</li>
+						<li>Housing</li>
+						<li>HT Media</li>
+						<li>IBM</li>
+						<li>Icon Resources</li>
+						<li>Incture Technology</li>
+						<li>Info Edge</li>
+						<li>Infosys</li>
+						<li>Infurnia Furnishings </li>
+						<li>Inmobi</li>
+						<li>Innovacer</li>
+						<li>Ittiam</li>
+						<li>IVP</li>
+						<li>KPMG</li>
+						<li>Kritikal</li>
+						<li>Kronos</li>
+						<li>Kuliza</li>
+						<li>LeafAir</li>
+						<li>Linkedin</li>
+						<li>Mahindra Comviva</li>
+						<li>MAQ Software</li>
+						<li>Mech Mocha</li>
+						<li>Microsoft</li>
+						<li>MoEngange</li>
+						<li>Morgan Stanley</li>
+						<li>Mu Sigma</li>
+						<li>Must See India</li>
+						<li>Myntra</li>
+						<li>Nagarro Softwares</li>
+						<li>Naukri.com</li>
+						<li>NEC Tech</li>
+						<li>NestAway</li>
+						<li>Newgen</li>
+						<li>National Instruments</li>
+					</ul>
+					<ul class="col s10 m4 l4">
+						<li>Niki.ai (Techbins)</li>
+						<li>Nucleas Software</li>
+						<li>Nvidia</li>
+						<li>Octri</li>
+						<li>OFSSOkuTech</li>
+						<li>Online Tyari</li>
+						<li>PagalGuy</li>
+						<li>Pay U</li>
+						<li>Paytm</li>
+						<li>Polaris</li>
+						<li>Power2SME</li>
+						<li>Practo</li>
+						<li>Proptiger</li>
+						<li>Qualcomm</li>
+						<li>Quantium</li>
+						<li>Qubole</li>
+						<li>RB</li>
+						<li>RBS</li>
+						<li>Routofy</li>
+						<li>Samsung</li>
+						<li>SAP Labs</li>
+						<li>Sapient Nitro</li>
+						<li>Shimply</li>
+						<li>Sigmoid</li>
+						<li>Snapdeal</li>
+						<li>SportsWave</li>
+						<li>ST Microelectronics</li>
+						<li>StanfordSuccess Factors</li>
+						<li>Sutra</li>
+						<li>TCS</li>
+						<li>Tesco</li>
+						<li>Thorogood</li>
+						<li>Tiny Owl</li>
+						<li>Toppr</li>
+						<li>Unbxd</li>
+						<li>Urbanrestro</li>
+						<li>Valuefy</li>
+						<li>Verizon</li>
+						<li>Vitara</li>
+						<li>VIZ</li>
+						<li>Walmart</li>
+						<li>WhistleApp</li>
+						<li>Zoomcar</li>
+						<li>ZopHop</li>
+						<li>Zopnow</li>
+						<li>ZSZScalar</li>
+					</ul>
+				</div>
 			</div>
 		</div>
 
@@ -225,23 +313,24 @@
 						<li>Times Now</li>
 						<li>RBS</li>
 						<li>Arista</li>
-						<li>LinkedIn</li>
+						<li>Microsoft</li>
 					</ul>
 					<ul class="col s10 m4 l4">
+						<li>LinkedIn</li>
 						<li>Smart Prix</li>
 						<li>Finomena</li>
-						<li>AMERICAN EXPRESS</li>
+						<li>American Express</li>
 						<li>Commence Mint</li>
 						<li>MAQ?</li>
 						<li>Use Dipper</li>
-						<li>VizExperts</li>
 					</ul>
 					<ul class="col s10 m4 l4">
+						<li>VizExperts</li>
 						<li>Google</li>
 						<li>Unicommerce</li>
 						<li>Grofers</li>
 						<li>Incture</li>
-						<li>HIKE</li>
+						<li>Hike</li>
 						<li>Finomena Launchpad</li>
 					</ul>
 				</div>
@@ -254,7 +343,7 @@
 					<div class="col m6 s12">
 						<h5 class="white-text">Contacts</h5>
 						<p class="grey-text text-lighten-4 col m6 s12">
-							Dr. Shirshu Varma<br>Faculty Incharge<br>Training &amp; Placements<br>+91-9450965329
+							Dr. Shirshu Varma<br>Faculty Incharge<br>Training &amp; Placements<br>+91-9450965329<br>placements@iiita.ac.in
 						</p>
 						<p class="grey-text text-lighten-4 col m6 s12">
 							Manav Sharma<br>Student Coordinator,Training and Placements<br>+91-7081718135
@@ -272,7 +361,11 @@
 			</div>
 			<div class="footer-copyright">
 				<div class="container center">
-					Copyright © 2016 Indian Institute Of Information Technology, Allahabad (Managed By GeekHaven-IIITA)
+					Copyright © 2016 
+						<a href="http://www.iiita.ac.in" alt="Link to the IIITA website">
+							Indian Institute Of Information Technology, Allahabad
+						</a>
+					(Managed By GeekHaven-IIITA)
 				</div>
 			</div>
    		</footer>
