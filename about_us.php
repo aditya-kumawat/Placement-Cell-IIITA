@@ -8,7 +8,7 @@
 		<meta name="description" content="" />
 		<meta name="keywords" content="IIITA Placements,IIITA,Placements" />
 		<!--Import Google Icon Font-->
-		<link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 		<!--Import materialize.css-->
 		<link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
 		<!--Let browser know website is optimized for mobile-->
@@ -177,9 +177,9 @@
 					<div class="col m4 offset-m2 s12">
 						<h5 class="white-text ">Links</h5>
 						<ul>
-						  <li><a class="grey-text text-lighten-3" href="procedures_and_policies.html">Placement procedure</a></li>
+						  <li><a class="grey-text text-lighten-3" href="procedures_and_policies.php">Placement procedure</a></li>
 						  <li><a class="grey-text text-lighten-3" href="IIIT-A Placement Brochure.pdf">Official Brochure</a></li>
-						  <li><a class="grey-text text-lighten-3" href="past_recruiters.html">Past Recruiters</a></li>
+						  <li><a class="grey-text text-lighten-3" href="past_recruiters.php">Past Recruiters</a></li>
 						</ul>
 					</div>
 				</div>
