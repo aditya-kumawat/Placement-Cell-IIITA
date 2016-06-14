@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 		<title>Placement Cell - IIITA</title>
 		<meta name="description" content="AK,GRYK" />
-		<meta name="author" content="">
+		<meta name="author" content="Gryk,Ak">
 		<meta name="keywords" content="IIITA Placements,IIITA,Placements" />
 		<!--Import Google Icon Font-->
 		<link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
