@@ -184,7 +184,7 @@
 							Dr. Shirshu Varma<br>Faculty Incharge<br>Training &amp; Placements<br>+91-9450965329<br>placements@iiita.ac.in
 						</p>
 						<p class="grey-text text-lighten-4 col m6 s12">
-							Manav Sharma<br>Student Coordinator,Training and Placements<br>+91-7081718135
+							Manav Sharma<br>Student Coordinator,Training and Placements<br>+91-7510004660
 						</p>
 					</div>
 					<div class="col m4 offset-m2 s12">
