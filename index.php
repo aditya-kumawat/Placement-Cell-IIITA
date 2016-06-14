@@ -5,8 +5,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 		<title>Placement Cell - IIITA</title>
-		<meta name="description" content="AK,GRYK" />
-		<meta name="author" content="Gryk,Ak">
+		<meta name="description" content="IIITA Placements Website : contains information about recent placement statistics and other information." />
 		<meta name="keywords" content="IIITA Placements,IIITA,Placements" />
 		<!--Import Google Icon Font-->
 		<link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
